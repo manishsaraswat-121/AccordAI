@@ -9,14 +9,14 @@ This project implements a contract analysis pipeline that uses semantic search a
 
 ## Project Structure
 - contract_analysis_pipeline/
-  - config.py               : Input & Output paths Configuration and constants
+  - config.py               : Input & Output paths, Configuration and constants
   - pdf_utils.py            : PDF text extraction and normalization utilities
   - embedding_utils.py      : Embeddings model and FAISS index building functions
   - llm_utils.py            : LLM prompt construction and API calls for clause extraction & summarization
   - pipeline.py             : Main processing pipeline to handle contracts end-to-end
   - main.py                 : CLI entrypoint to run the pipeline with user-specified parameters
   - docs/developer_docs.md  : Project Documentation
-  - dataset                  : dataset directory
+  - dataset                 : dataset directory
 
 
 ### File Descriptions
