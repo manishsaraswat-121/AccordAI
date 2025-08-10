@@ -24,7 +24,7 @@ This project implements a contract analysis pipeline that uses semantic search a
 ### File Descriptions
 
 - **config.py**  
-  Contains all configuration constants like model names, directories, API keys, chunk sizes, few-shot examples, and clause types.
+  Contains all configuration constants like model names, directories, API keys, chunk sizes, few-shot examples, user inputs (input folder, output files) and clause types.
 
 - **pdf_utils.py**  
   Utility functions for extracting and normalizing text from PDFs.
@@ -46,8 +46,7 @@ This project implements a contract analysis pipeline that uses semantic search a
   - Aggregate and return results
 
 - **main.py**  
-  Entry point script that:  
-  - Parses user inputs (input folder, output files)  
+  Entry point script that:   
   - Initializes models and environment  
   - Runs the pipeline  
   - Saves outputs (JSON and CSV)
@@ -63,7 +62,7 @@ This project implements a contract analysis pipeline that uses semantic search a
    Set your OpenRouter API key as environment variable `OPENROUTER_API_KEY`.
 
 3. **Run the Pipeline**  
-   Execute the `main.py` script, specifying input/output paths in the script or command line if applicable:
+   Execute the `main.py` script, specifying input/output paths in the script `config.py` or command line if applicable:
 
    ```bash
    python main.py
