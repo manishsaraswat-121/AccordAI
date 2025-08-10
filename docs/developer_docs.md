@@ -62,7 +62,7 @@ This project implements a contract analysis pipeline that uses semantic search a
    Set your OpenRouter API key as environment variable `OPENROUTER_API_KEY`.
 
 3. **Run the Pipeline**  
-   Execute the `main.py` script, specifying input/output paths in the script `config.py` or command line if applicable:
+   Execute the `main.py` script, specifying input/output paths in the script `config.py` if applicable:
 
    ```bash
    python main.py
