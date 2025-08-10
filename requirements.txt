@@ -1,0 +1,10 @@
+openai
+openrouter-client
+pdfminer.six
+PyMuPDF
+sentence-transformers
+faiss-cpu
+pandas
+tqdm
+python-dotenv
+numpy

@@ -1,0 +1,1002 @@
+[
+  {
+    "contract_id": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement",
+    "summary": "Title: Co-Branding Agreement between 2TheMart Com Inc and i-Escrow Inc\n\nThis Co-Branding Agreement, effective from August 26, 1999, outlines the terms between 2TheMart Com Inc and i-Escrow Inc for a one-year period, renewable, regarding their co-branded services. Key obligations include 2TheMart providing materials and services \"as is,\" disclaiming all warranties, and i-Escrow acting in good faith and indemnifying 2TheMart against any claims arising from its acts or misrepresentations. Termination can occur for various reasons, with surviving provisions ensuring completion of pending customer transactions. Notable risks include potential liabilities for breaches and penalties for non-compliance with the agreement's terms.",
+    "termination_clause": {
+      "raw_clause": "Upon expiration or termination of this Agreement for any reason: (a) all rights granted herein shall terminate, (b) i-Escrow shall pay all amounts owed to 2TheMart within six (6) weeks of termination, and (c) each party shall remove the other party's content and Marks from their servers. Notwithstanding the foregoing, unless this Agreement was terminated for a material breach, all provisions of this Agreement shall survive to the extent necessary for i-Escrow to complete any Customer transactions which are pending at the time.",
+      "normalized_clause": "Termination: Upon any reason, all rights granted under the Agreement terminate, i-Escrow pays all owed amounts to 2TheMart within six weeks, and both parties remove each other's content and marks from their servers. Unless terminated for material breach, all provisions of the Agreement survive to complete pending Customer transactions.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "11. CONFIDENTIAL INFORMATION. A party's 'Confidential Information' is defined as any confidential or proprietary information of a party which is disclosed to the other party in a writing marked confidential or, if disclosed orally, is identified as confidential.",
+      "normalized_clause": "Parties must keep each other's confidential or proprietary information confidential, whether it is disclosed in writing or orally.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "8. DISCLAIMER OF WARRANTIES. EACH PARTY PROVIDES ALL MATERIALS AND SERVICES TO THE OTHER PARTY 'AS IS.' EACH PARTY DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. Each party acknowledges that it has not entered into this Agreement in reliance upon any warranty or representation except those specifically set forth herein.",
+      "normalized_clause": "Each party disclaims all warranties, express, implied or statutory, including title, non-infringement, merchantability, and fitness for a particular purpose.",
+      "found": true
+    },
+    "source_path": "dataset\\2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf"
+  },
+  {
+    "contract_id": "AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement",
+    "summary": "This Development Agreement between Aimmune Therapeutics Inc. and Xencor outlines the terms for the development, manufacturing, and commercialization of certain therapeutic products. Key obligations include Aimmune granting Xencor exclusive rights to develop and manufacture the products, while Xencor agrees to provide Aimmune with development and manufacturing services. Aimmune has the right to terminate the agreement with a 60-day written notice. Both parties must keep confidential all disclosed confidential information and use it only for the purpose of performing under the agreement. Neither party will be liable for lost profits or indirect damages, but Xencor agrees to indemnify Aimmune for any losses arising from breaches of the agreement. Failure to comply with obligations or confidentiality breaches may result in penalties.",
+    "termination_clause": {
+      "raw_clause": "Aimmune may terminate this Agreement in its entirety at any time for its convenience upon sixty (60) days’ prior written notice to Xencor.",
+      "normalized_clause": "Aimmune has the right to terminate this Agreement at any time with a 60-day written notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The receiving party must keep confidential all disclosed confidential information and use it only for the purpose of performing under the agreement. Disclosures are limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "11.4 Limitation of Liability. NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, OR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES. NOTHING IN THIS SECTION 11.4 IS INTENDED TO OR SHALL LIMIT OR RESTRICT THE INDEMNIFICATION RIGHTS OR OBLIGATIONS OF ANY PARTY UNDER SECTION 11.1 or 11.2, OR DAMAGES AVAILABLE FOR A PARTY’S BREACH OF CONFIDENTIALITY OBLIGATIONS UNDER ARTICLE 12.",
+      "normalized_clause": "Neither party will be liable to the other for any lost profits, special, consequential, incidental, or indirect damages arising from or relating to any breach of this agreement, regardless of any notice of the possibility of such damages. This does not limit or restrict the indemnification rights or obligations of any party under sections 11.1 or 11.2, or damages available for a party’s breach of confidentiality obligations under Article 12.",
+      "found": true
+    },
+    "source_path": "dataset\\AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement",
+    "summary": "The Development Agreement outlines the terms between the Fund and the Blockchain Administrator for the creation, maintenance, and administration of the Fund's digital securities. The Blockchain Administrator is responsible for providing necessary services, including development, administration, and relations with third parties. The Fund employs the Blockchain Administrator as an independent contractor, and the Administrator is liable for costs and expenses. Key obligations for the Blockchain Administrator include performing development and administrative services, maintaining confidentiality of provided information, and entering into agreements with other service providers. Notable risks for the Blockchain Administrator include potential termination by the Fund's Board, liability for damages, liabilities, costs, and expenses arising from the performance of its duties, and the need to indemnify the Indemnified Parties. The Fund is obligated to provide the Blockchain Administrator with all necessary information and to review and control the Administrator's actions. The Agreement may be amended by mutual consent of",
+    "termination_clause": {
+      "raw_clause": "This Agreement shall continue in force and effect and apply to the Blockchain Administrator and its representatives as and to the extent applicable. Section 5 shall continue in force and effect and apply to the Blockchain Administrator and its representatives as and to the extent applicable.",
+      "normalized_clause": "This Agreement can be terminated annually by the vote of the Board. Upon termination, the Blockchain Administrator shall be entitled to any amounts owed under Section 4 through the date of termination. Section 5 shall continue to apply to the Blockchain Administrator and its representatives.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The confidential information provided by a party hereto, including nonpublic personal information (regulated pursuant to Regulation S-P), shall be used by any other party hereto solely for the purpose of rendering services pursuant to this Agreement and, except as may be required in carrying out this Agreement, shall not be disclosed to any third party, without the prior consent of such providing party. The foregoing shall not be applicable to any information that is publicly available when provided or thereafter becomes publicly available other than through a breach of this Agreement, or that is required to be disclosed by any regulatory authority, any authority or legal counsel of the party",
+      "normalized_clause": "Confidentiality: The confidential information provided by a party shall be used solely for the purpose of rendering services pursuant to this Agreement. It shall not be disclosed to any third party without the prior consent of the providing party, except in cases where the information is publicly available or required to be disclosed by regulatory authorities or legal counsel.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In this Agreement, the Indemnified Parties are indemnified against all damages, liabilities, costs and expenses (including reasonable attorneys' fees and amounts reasonably paid in settlement) incurred by the Indemnified Parties in or by reason of any pending, threatened or completed action, suit, investigation or other proceeding (including an action or suit by or in the right of the Fund or its security holders) arising out of or otherwise based upon the performance of any of the Blockchain Administrator's duties or obligations under this Agreement or otherwise as administrator of the Fund. Notwithstanding the preceding sentence of this Section 5 to the contrary, nothing contained herein shall protect or be deemed to protect the Indemnified Parties against or entitle or be deemed to entitle the Indemnified Parties to indemnification in respect",
+      "normalized_clause": "The Indemnified Parties are indemnified against all damages, liabilities, costs, and expenses (including attorneys' fees and settlement costs) arising from actions, suits, investigations, or other proceedings related to the performance of the Blockchain Administrator's duties or obligations under this Agreement or as administrator of the Fund.",
+      "found": true
+    },
+    "source_path": "dataset\\ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement",
+    "summary": "Development Agreement between Client and Developer for the design of an Application. The Developer agrees to create the Application System as per Client's specifications, devote necessary time, and perform Services in a workmanlike manner. The Client is responsible for payment as outlined in Exhibit A. Key obligations include the Developer's control over the means and method of Service delivery, and the Developer's representation of having the right to perform the Services and the ability to do so lawfully. Notable risks/penalties include termination for breach, Developer's liability for taxes, and penalties if found not to be an independent contractor. Confidentiality obligations apply to both parties, and the Developer must deliver all assets used during the project upon completion. Amendments require written consent from both parties, and the Client may assign the Agreement freely, while the Developer may only transfer payment rights with Client's written consent.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated:\n1. By either Party on provision of seven (7) days written notice to the other Party in case of a Force Majeure Event.\n2. Client has the unilateral right to cancel this agreement at any time within a 7-day notice period. Further, Developer can only cancel due to lack of payment. Client will have a 30 day right to cure before a cancelation can occur.\n3. By either Party for a material breach.",
+      "normalized_clause": "This Agreement can be terminated by either party under three conditions: 1. With a 7-day written notice in case of a Force Majeure Event, 2. Unilaterally by the Client within a 7-day notice period, with the Developer only able to cancel due to lack of payment and the Client having a 30-day right to cure before cancellation, and 3. For a material breach.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only to perform the Agreement; disclosures limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "If any regulatory body or court of competent jurisdiction finds that the Developer is not an independent contractor and/or is not in compliance with applicable laws related to work as an independent contractor, based on the Developer’s own actions, the Developer shall assume full responsibility and liability for all taxes, assessments, and penalties imposed against the Developer and/or the Client resulting from such contrary interpretation, including but not limited to taxes, assessments, and penalties that would have been deducted from the Developer’s earnings had the Developer been on the Client’s payroll and employed as an employee of the Client.",
+      "normalized_clause": "The Developer assumes full responsibility and liability for all taxes, assessments, and penalties imposed against the Developer and/or the Client if the Developer is found not to be an independent contractor and/or not in compliance with applicable laws related to independent contractor work.",
+      "found": true
+    },
+    "source_path": "dataset\\ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement",
+    "summary": "Title: Development Agreement between CNS Pharmaceuticals Inc. and WPD Purpose: This agreement outlines the terms for the research and development of certain products (Development Products) between CNS Pharmaceuticals Inc. (CNS) and WPD. Key Obligations: - WPD must provide regular progress reports and share data, information, and know-how related to the Development Products with CNS. - CNS may terminate the agreement under specific conditions or by mutual agreement. - Both parties must maintain confidentiality of shared information, with limited disclosure to necessary employees and third parties. - WPD is responsible for potential liabilities arising from negligence, breach of warranties, intellectual property infringement, and unlawful payments to foreign officials. Notable Risks/Penalties: - Breach of the agreement may lead to termination. - Each party's total liability for claims related to this agreement will not exceed the fees paid in the previous 12 months. - Failure to comply with the confidentiality obligations may result",
+    "termination_clause": {
+      "raw_clause": "This Agreement will earlier terminate in its entirety: (i) upon thirty (30) calendar days written notice from either party if the other party materially breaches this Agreement, unless before the end of such thirty (30) calendar day notice period, the breaching party has cured the material default or breach to the non-breaching party’s reasonable satisfaction; or (ii) at any time by mutual written agreement between the Parties, subject to any terms herein which survive termination.",
+      "normalized_clause": "This Agreement can be terminated in the following ways: \n1. By either party giving a 30-day written notice if the other party materially breaches the agreement and fails to cure the breach within the 30-day notice period.\n2. By mutual written agreement between the parties, with terms that survive termination.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The receiving party must keep confidential all disclosed confidential information and use it only for the purpose of performing under the agreement. Disclosures are limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be responsible for indirect, special, incidental, or consequential damages, including loss of profits. The total liability for each party for claims related to this agreement will not exceed the fees paid in the previous 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\CnsPharmaceuticalsInc_20200326_8-K_EX-10.1_12079626_EX-10.1_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement",
+    "summary": "This Development Agreement between Coherus Biosciences and an undisclosed party outlines the terms for the development of a specific product. The key obligations include the Receiving Party maintaining the confidentiality of the Disclosing Party's information, using it only for the purposes stated in the agreement, and implementing appropriate safeguards to prevent unauthorized disclosure. The Receiving Party can disclose the information to certain employees and third parties with a need to know. Termination of the agreement results in immediate payment of accrued obligations. Breach of the confidentiality clause may lead to liability, but neither party will be liable for special, non-compensatory, consequential, indirect, incidental, statutory or punitive damages. The agreement also includes provisions for the distribution of recoveries in the event of an enforcement action.",
+    "termination_clause": {
+      "raw_clause": "Upon termination of this Agreement any accrued payment obligations shall become immediately due and payable.",
+      "normalized_clause": "Upon termination, all accrued payment obligations become immediately due and payable.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party shall not use any of the Disclosing Party’s Confidential Information for any other purpose, and shall not disclose, reveal or otherwise make any of the Disclosing Party’s Confidential Information available to any other person, firm, corporation or other entity, without the prior written authorization of the Disclosing Party, except as explicitly stated in this Agreement. An appropriate confidential disclosure agreement must be signed by any Third Party or Affiliate prior to receiving Confidential Information from either Party.",
+      "normalized_clause": "The Receiving Party must keep the Disclosing Party’s Confidential Information confidential and use it only for the purposes stated in this Agreement. The Receiving Party must not disclose the Confidential Information to any third party without the Disclosing Party’s written authorization.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Except for a breach of Section 11 (\"Confidentiality\"), and without limiting a Party’s indemnification obligations hereunder, in no event shall either Party be liable to the other Party in any manner for any special, non-compensatory, consequential, indirect, incidental, statutory or punitive damages of any kind, including lost profits and lost revenue, regardless of the form of action, whether in contract, tort, product liability or otherwise, even if informed of or aware of the possibility of any such damages in a",
+      "normalized_clause": "Neither party will be liable to the other for any special, non-compensatory, consequential, indirect, incidental, statutory or punitive damages, including lost profits and lost revenue, except for a breach of the confidentiality clause.",
+      "found": true
+    },
+    "source_path": "dataset\\CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement",
+    "summary": "This Development Agreement, dated November 1, 2019, between two parties, outlines the terms for a research and development collaboration. The primary purpose is to jointly develop, test, and commercialize certain orthopedic products.\n\nKey obligations include each party contributing its resources, expertise, and intellectual property to the project, maintaining confidentiality of shared information, and sharing joint liability for damages, liabilities, costs, and expenses in proportion to their relative responsibilities and determined liability in the event of a single claim.\n\nNotable risks and penalties include termination of the agreement if either party dissolves, seeks dissolution, or becomes insolvent, and potential legal action for breach of confidentiality or other contractual obligations. Additionally, any assignment of the agreement or related assets requires prior approval from both parties and must be accompanied by a simultaneous assignment of the other agreements and the assigning party's interest in the purchased assets.",
+    "termination_clause": {
+      "raw_clause": "8.2 Termination.\n(a) Dissolution or Insolvency Event. Either Party may terminate this Agreement effective immediately upon delivery of a Termination Notice if the other Party is (A) dissolved or is seeking to dissolve itself under applicable corporate law other than as part of a corporate restructuring under which its assets were first transferred to an assignee under this Agreement in accordance with Section 10.2;\n or (B) (i) becomes subject to an Insolvency Event, provided that the term 'Insolvency Event' is not defined in this contract.",
+      "normalized_clause": "Either Party may terminate this Agreement immediately if the other Party is dissolved, seeking dissolution, or becomes insolvent.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "To the extent applicable, it is the intent of the Parties that employees, consultants, or Agents who will have access to Confidential Information, are contractually obligated, or will be contractually obligated prior to their participation or access, to (i) maintain the confidentiality of the Confidential Information.",
+      "normalized_clause": "Employees, consultants, and Agents with access to Confidential Information are contractually obligated to maintain its confidentiality.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Joint Liability. To the extent that Stryker, on the one hand, and Conformis, on the other hand, each has indemnification obligations to the other in connection with a single Claim, they will contribute to the aggregate damages, liabilities, costs and expenses arising from such Claim in a proportion reflecting the relative and comparative responsibilities and determined liability of the Parties for such damages, liabilities, costs and expenses, as well as any other relevant equitable considerations. The amount paid or payable by a Party for purposes: of apportioning the aggregate damages, liabilities, costs and expenses shall be deemed to include all reasonable legal fees and expenses incurred by such Party in connection with investigating",
+      "normalized_clause": "Joint Liability: Parties will share damages, liabilities, costs, and expenses in proportion to their relative responsibilities and determined liability in the event of a single Claim.",
+      "found": true
+    },
+    "source_path": "dataset\\ConformisInc_20191101_10-Q_EX-10.6_11861402_EX-10.6_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, dated August 10, 2007, between CreditcardscomInc and an affiliate (Affiliate), outlines the terms for promoting Chase's products. Key obligations for both parties include adhering to the terms of the agreement, maintaining confidentiality of certain information, and making necessary disclosures. The agreement also specifies that neither party will be held liable for indirect, special, incidental, or consequential damages, with total liability not exceeding the fees paid in the past 12 months. Breach of terms may lead to termination with a 30-day written notice. Notably, Chase reserves the right to modify the agreement without notice, and continued participation following such modifications signifies binding acceptance.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon thirty (30) days' prior written notice to the other party if the other party materially breaches any representation, warranty or covenant under this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice describing the breach.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party breaches any terms and fails to correct the breach within 30 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The foregoing restrictions will not apply to information to the extent it (i) was known to the receiving party at the time of disclosure; (ii) has become publicly known through no wrongful act of the receiving party; (iii) is or has been obtained by the receiving party from a third party without a breach of any obligation of confidentiality; or (iv) is independently developed by the receiving party.",
+      "normalized_clause": "Confidentiality: Information will not be considered confidential if it was known prior to disclosure, is publicly known, obtained from a third party without breaching confidentiality, or independently developed.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, including loss of profits. The total liability of each party for claims arising from this agreement will not exceed the fees paid in the past 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, effective from its execution by MA and acceptance by the Company, grants MA the rights to market, sell, and support the Technology listed in Schedule A for internal language learning and communication purposes. Key obligations for MA include maintaining confidentiality, not using Confidential Information without prior written authorization, performing services for clients, and not disclosing Confidential Information to third parties. The Company, in turn, must supply MA with access to major published modifications or upgrades to the Technology. Termination can occur with a 30-day written notice at the end of the term or any renewal term, but the Agreement cannot be terminated due to MA's failure to follow an operating plan, standard procedure, training manual, or substantial equivalent published in Paragraph 3 (k) of this Agreement, except for MA's failure to follow required procedures related to the processing of sales. Notable risks and penalties include potential liability",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party at the expiration of its term or any renewal term upon thirty (30) days written notice to the other party. Company acknowledges that this Agreement shall not be terminated for MA’s failure to follow an operating plan, standard procedure, training manual, or substantial equivalent published in Paragraph 3 (k) of this Agreement, except that Company does reserve the right to terminate this Agreement for MA’s failure to follow required procedures relating to the processing of sales con",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice at the end of its term or any renewal term. The Agreement cannot be terminated due to MA's failure to follow an operating plan, standard procedure, training manual, or substantial equivalent published in Paragraph 3 (k) of this Agreement, except that the Company can terminate the Agreement for MA's failure to follow required procedures related to the processing of sales.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Confidential Information. \"Confidential Information\" Defined. “Confidential Information” includes: (a) the Technology (b) any personally identifiable data or information regarding any end user; (c) any and",
+      "normalized_clause": "The Receiving Party must keep the Technology, personally identifiable data or information regarding any end user, and any other Confidential Information confidential.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "IN NO EVENT SHALL COMPANY BE LIABLE TO \"MA\", ITS CLIENTS, OR ANY THIRD PARTY FOR ANY TORT OR CONTRACT DAMAGES OR INDIRECT, SPECIAL, GENERAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS OR ANTICIPATED PROFITS AND LOSS OF GOODWILL, ARISING IN CO",
+      "normalized_clause": "Company shall not be liable for tort or contract damages, or indirect, special, general, incidental or consequential damages, including loss of profits, anticipated profits, and loss of goodwill.",
+      "found": true
+    },
+    "source_path": "dataset\\CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement",
+    "summary": "This Co-Branding and Service Agreement, dated November 2, 1999 (DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19), outlines the terms for a partnership between DeltaThree and PrimeCall to co-brand a prepaid IP telephony calling card. Key obligations include PrimeCall selling and advertising the Calling Card online, and DeltaThree providing services for PrimeCall's on-line business. Each party is required to keep the other's proprietary information confidential, and breach of this agreement may result in termination of the agreement and entitlement to injunctive relief. The agreement also includes a liability cap on damages.",
+    "termination_clause": {
+      "raw_clause": "Section 6.03 [Effect of Termination]. Effect of Termination. In the event of the termination of this Agreement, all rights and obligations of PrimeCall and DeltaThree shall terminate as of the effective date of such termination, except that (i) such termination shall not constitute a waiver of any rights that either PrimeCall or DeltaThree may have by reason of a breach of this Agreement, (ii) such termination shall not constitute a waiver of any right to receive payments that are due and owing pursuant to this Agreement and (iii) the provisions of Article VII [Limited Warranty] shall continue in full force and effect.",
+      "normalized_clause": "This clause outlines the effects of termination of the agreement. Upon termination, all rights and obligations of PrimeCall and DeltaThree will terminate, except for certain exceptions. The termination does not waive any rights due to a breach of the agreement, the right to receive payments, and the provisions of Article VII [Limited Warranty] will continue.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "he prior written approval of the other party hereto, not to use for their own benefit or the benefit of any party other than the other party hereto, or disclose to any person, firm or corporation other than such party (other than as required by law) any confidential proprietary information concerning the business and affairs of the other party hereto; provided, however, that the foregoing limitations and restrictions shall not apply to information that (i) is or becomes generally available to the public other than as a result of a disclosure by the directors, officers, shareholders, partners, affiliates, employees, agents or advisors of PrimeCall or DeltaThree, as the case may be, or (ii) is or becomes available to PrimeCall or DeltaThree on a non-confidential basis from a source other than the directors, officers, shareholders, partners, affiliates, employees, agents or advisors of PrimeCall or DeltaThree, as the case may be.",
+      "normalized_clause": "The parties must keep confidential proprietary information concerning each other's business and affairs. They are not allowed to use this information for their own benefit or for the benefit of any third party, except as required by law. However, this confidentiality obligation does not apply to information that becomes publicly available or is obtained from a source other than the parties themselves.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "No indirect, special, incidental, or consequential damages; aggregate liability capped at fees paid in the previous 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.pdf"
+  },
+  {
+    "contract_id": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, dated December 20, 2011, between Digital Cinema Destinations Corp. (NCM) and an unnamed party, outlines the terms for their business relationship. The purpose is to establish the terms for NCM's affiliate program. Key obligations include NCM providing digital cinema services, and the other party promoting these services and sharing revenue. The other party's liability is limited to the amount of net revenue received by NCM during the five years preceding any liability, less any amounts paid by NCM for previous events of liability. Notable risks and penalties include the other party's breach of confidentiality, which could result in equitable relief, and the limitation of damages to direct damages only, with no liability for indirect, special, consequential, punitive, exemplary, or extra-contractual damages. The agreement is the complete and exclusive statement of the agreement between the parties, and can only be amended with mutual written agreement.",
+    "termination_clause": {
+      "raw_clause": "Either Party may terminate this Agreement, immediately, by giving written notice to the other party.",
+      "normalized_clause": "Either party can terminate this agreement immediately by providing written notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Each party agrees to permanently hold, and cause its personnel to hold, all Confidential Information of the other party in strict confidence, except that each party may:\n(i) disclose the Confidential Information of the other party that is required to be disclosed by governmental agencies, regulatory authorities, or pursuant to court order, but only to the extent such disclosure is required by law and only if such party provides prompt prior written notice to the other party of the disclosure,\n(ii) subject to the terms and conditions of this Agreement, use the Confidential Information of the other party only to the extent necessary to perform its obligations under this Agreement",
+      "normalized_clause": "Each party must keep the other party's Confidential Information confidential, except for disclosures required by law or court order, and must provide prior written notice. The Confidential Information can be used only to fulfill the obligations under this Agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": ", CONSEQUENTIAL, SPECIAL, PUNITIVE, EXEMPLARY, OR EXTRA-CONTRACTUAL DAMAGES OF ANY KIND WHATSOEVER ARISING FROM OR CONNECTED WITH THIS AGREEMENT, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, LOST REVENUES, OR LOSS OF BUSINESS, REGARDLESS OF LEGAL THEORY, WHETHER OR NOT FORESEEABLE, EVEN IF EITHER PARTY HERETO HAS BEEN ADVISED OF THE POSSIBILITY OR PROBABILITY OF SUCH DAMAGES AND EVEN IF THE REMEDIES OTHERWISE PROVIDED BY THIS AGREEMENT FAIL OF THEIR ESSENTIAL PURPOSE. THE REMEDIES PROVIDED BY THIS AGREEMENT AND THE PROVISIONS OF THIS AGREEMENT ALLOCATE THE RISKS OF THIS AGREEMENT BETWEEN THE PARTIES, SOME OF WHICH MAY BE UNKNOWN OR UNDERMINABLE. THESE LIMITATIONS ARE A MATERIAL INDUCEMENT FOR THE PARTIES TO THIS AGREEMENT TO ENTER INTO THIS AGREEMENT, AND THE PARTIES TO THIS AGREEMENT AGREE TO BE BOUND BY THESE LIMITATIONS.",
+      "normalized_clause": "Neither party will be liable for indirect, special, consequential, punitive, exemplary, or extra-contractual damages of any kind, including lost profits, lost revenues, or loss of business, regardless of legal theory, whether or not foreseeable, even if advised of the possibility or probability of such damages. The remedies provided by this agreement and the provisions of this agreement allocate the risks of this agreement between the parties, some of which may be unknown or unknowable. These limitations are a material inducement for the parties to this agreement to enter into this agreement, and the parties to this agreement agree to be bound by these limitations.",
+      "found": true
+    },
+    "source_path": "dataset\\DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement, dated May 15, 2001, between Ebix Inc. and About, outlines the terms for a partnership to jointly market and sell insurance products. Key obligations include Ebix providing tools and services, and About easing, transferring, disseminating, displaying, or otherwise disclosing customer data to Ebix. Each party is responsible for complying with applicable laws regarding taxes, employment, and benefits. The agreement includes a confidentiality clause, with penalties for breach of confidentiality. The agreement can be terminated under certain conditions, and provisions regarding liability and ownership of intellectual property are included. Certain sections of the agreement have been redacted due to confidential treatment requests.",
+    "termination_clause": {
+      "raw_clause": "13.1 eBix may terminate this Agreement, [**] upon [**] to About; provided, however, that the termination is no earlier than [**] of the Effective Date of this Agreement.",
+      "normalized_clause": "eBix has the right to terminate this agreement, with conditions, at a specified time after the effective date of the agreement.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Confidential treatment has been requested for portions of this document. The redacted material has been filed with",
+      "normalized_clause": "Confidentiality: Confidential treatment has been requested for portions of this document.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "14. LIMITATION OF LIABILITY\nConfidential treatment has been requested for portions of this document. The redacted material has been filed with",
+      "normalized_clause": "Limitation of Liability: Confidential treatment has been requested for portions of this document. The redacted material has been filed with",
+      "found": true
+    },
+    "source_path": "dataset\\EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement (EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4) outlines a partnership between two parties for mutual branding purposes. Key obligations include maintaining confidentiality of shared information, performing duties in compliance with the agreement, and not violating any existing agreements. Each party represents and warrants they have the authority to enter into the agreement, and the agreement will be legally binding.\n\nThe agreement includes a liability limitation, where neither party will be liable for indirect, special, incidental, or consequential damages, with total liability not exceeding fees paid in the previous 12 months. However, this limitation does not apply to indemnification obligations. The agreement also specifies termination conditions, where either party can terminate with a 30-day notice if the other party materially breaches the agreement and fails to rectify within 30 days. Upon termination, parties must return all intellectual property, Confidential Information, and eDiets Content used in connection with the agreement.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon thirty (30) days' written notice if the other party materially breaches any representation, warranty or covenant under this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice describing the breach.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party materially breaches any terms and fails to rectify the breach within 30 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "isclose such Confidential Information only to its employees, agents and contractors with a need to know such Confidential Information and who have obligations of confidentiality not to use such Confidential Information for any purpose except as expressly permitted hereunder, (b) that it will not disclose to any third party or use any Confidential Information disclosed to it by the other except as expressly permitted in this Agreement, and (c) that it will take all reasonable measures to maintain the confidentiality of all Confidential Information of the other party in its possession or control, which will in no event be less than the measures it uses to maintain the confidentiality of its own information of similar importance.",
+      "normalized_clause": "The party must keep Confidential Information confidential and use it only for the purposes explicitly allowed in this Agreement. Disclosures are limited to employees, agents, and contractors with a need to know and who are bound by confidentiality obligations. The party must not disclose or use Confidential Information disclosed by the other party except as expressly permitted in this Agreement. The party must take reasonable measures to maintain the confidentiality of all Confidential Information of the other party.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim. The limitations on liability for damages set forth in this Agreement shall be inapplicable to each party's contractual obligation to indemnify the other party as set forth in Sections 2.6 and 13.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, including loss of profits. The total liability for each party will not exceed the fees paid in the previous 12 months. The liability limitations in this agreement do not apply to the indemnification obligations in Sections 2.6 and 13.",
+      "found": true
+    },
+    "source_path": "dataset\\EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement",
+    "summary": "This Development Agreement between El Pollo Loco Holdings Inc. and Developer outlines the terms for the development of El Pollo Loco restaurants. The key obligations include the Developer's exclusive rights to operate within a specified territory, adherence to the Franchisor's standards, and the obligation to indemnify and hold harmless the Franchisor from losses resulting from Developer's activities. Notable risks for the Developer include potential termination or modification of exclusive rights, confidentiality obligations, and liability for employee-related claims. Penalties for breaching the covenants not to compete could result in immediate and irreparable injury to Franchisor.",
+    "termination_clause": {
+      "raw_clause": "Franchisor may terminate or modify any rights that Developer may have with respect to protected exclusive rights in the Territory, as granted under Section 1.1 above, effective ten (10) days after delivery of written notice thereof to Developer.",
+      "normalized_clause": "Franchisor has the right to terminate or modify the rights of the Developer regarding protected exclusive rights in the Territory, with a notice period of 10 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Developer hereby consents to the entry of a preliminary and permanent injunction prohibiting any conduct by Developer in violation of the terms of those covenants not to compete set forth in this Agreement. Developer expressly agrees that it may conclusively be presumed that any violation of the terms of said covenants not to compete was accomplished by and through Developer’s unlawful utilization of Franchisor’s Confidential Information, know-how, methods and procedures",
+      "normalized_clause": "Developer must keep Franchisor's Confidential Information confidential and not use it in violation of the covenants not to compete set forth in the Agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Developer shall indemnify and hold harmless the Franchisor (as defined above) from and against any and all Losses (as defined above), however caused, resulting directly or indirectly from or pertaining to or arising out of or in connection with Developer’s activities under the Development Agreement, including any labor, any employee related claims whatsoever",
+      "normalized_clause": "Developer is liable to indemnify and hold harmless the Franchisor from any losses resulting from Developer's activities under the Development Agreement, including employee-related claims.",
+      "found": true
+    },
+    "source_path": "dataset\\ElPolloLocoHoldingsInc_20200306_10-K_EX-10.16_12041700_EX-10.16_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement between Embark Com Inc and Snap, dated October 8, 1999, outlines a partnership for a specified period, during which they will collaborate on branding and marketing initiatives. Key obligations include Snap representing and warranting its authority and compliance with laws, and both parties taking reasonable measures to protect each other's confidential information.\n\nThe agreement allows for termination by either party with a 60-day written notice in case of breach, or immediately in case of bankruptcy or similar proceedings. Notable risks include potential legal action for breach of confidentiality, with the affected party seeking injunctive relief in addition to other remedies.\n\nBoth parties are independent contractors and cannot assign the agreement without the other's prior written consent. The agreement also includes a force majeure clause, absolving either party from default or breach in case of certain unforeseen events.",
+    "termination_clause": {
+      "raw_clause": "Either party may terminate the Term upon not less than sixty (60) days prior written notice to the other party of any breach hereof by such other party. In addition, either party may terminate the Term immediately upon written notice in the event that the other party shall fail to do business in the normal course or become subject to any bankruptcy, assignment for creditors, corporate dissolution or similar proceeding.",
+      "normalized_clause": "The contract can be terminated by either party with a 60-day written notice if there is a breach. The contract can also be terminated immediately if the other party fails to operate normally, files for bankruptcy, assignment for creditors, corporate dissolution, or similar proceedings.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Section 8.1 [CONFIDENTIALITY] will result in immediate and irreparable harm to the other and that money damages alone would be inadequate to compensate such party. Therefore, in the event of a breach of this Section 8.1 [CONFIDENTIALITY] by either party the other party may, in addition to other remedies, immediately obtain and enforce in injunctive relief prohibiting the breach or threatened breach or compelling specific performance. Notwithstanding any other provision of this Agreement, the restrictions set forth in this Section 8.1 [CONFIDENTIALITY] shall not apply to any information that: (i) is in or enters the public domain through no fault of the receiving party; (ii) is disclosed to the receiving party by a third party legally entitled to make such disclosure; (iii) is independently developed by the receiving party.",
+      "normalized_clause": "The party receiving confidential information must keep it confidential and use it only to perform the Agreement. Disclosures are limited to need-to-know employees bound by similar confidentiality obligations. In case of a breach, the other party may seek injunctive relief in addition to other remedies. The confidentiality restrictions do not apply to information that is in the public domain, disclosed by a third party legally entitled to do so, or independently developed.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In the event of a breach of this Section 8.1 [CONFIDENTIALITY] by either party the other party may, in addition to other remedies, immediately obtain and enforce in injunctive relief prohibiting the breach or threatened breach or compelling specific performance.",
+      "normalized_clause": "In case of a breach of the confidentiality clause, the affected party may seek and enforce injunctive relief to stop the breach or threatened breach.",
+      "found": true
+    },
+    "source_path": "dataset\\EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement",
+    "summary": "This Development Agreement between Emerald Health Bioceuticals Inc. (EHS) and Dr. Murray, effective from February 18, 2020, outlines terms for a collaboration. Key obligations include Dr. Murray providing services until December 31, 2018, with automatic renewal for two-year terms thereafter. EHS and Dr. Murray must maintain confidentiality regarding shared proprietary information, excluding information that is publicly known or independently developed. Neither party is liable for indirect, special, incidental, or consequential damages, with total liability not exceeding fees paid in the previous 12 months. The agreement can be terminated by either party, with surviving sections including confidentiality, force majeure, and certain other provisions.",
+    "termination_clause": {
+      "raw_clause": "If this Agreement is terminated in accordance with Section 6.2 by Dr. Murray, all of the rights and obligations hereunder shall cease and be of no further force or effect, except that Sections 4, 5 (to the extent obligations have accrued prior to termination), 7, 8 and 9 shall survive.\nIf this Agreement is terminated in accordance with Section 6.2 by EHS or EHN, all of the rights and obligations hereunder shall cease and be of no further force or effect, except that Sections 2.1, 3.1, 3.2, 4.1, 5.3, 7, 8 and 9 shall survive.",
+      "normalized_clause": "Termination: This Agreement can be terminated by either party (Dr. Murray or EHS/EHN) in accordance with Section 6.2. Upon termination by Dr. Murray, all rights and obligations cease except for Sections 4, 5 (if obligations have accrued prior to termination), 7, 8, and 9. Upon termination by EHS or EHN, all rights and obligations cease except for Sections 2.1, 3.1, 3.2, 4.1, 5.3, 7, 8, and 9.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Neither EHS, EHN nor Dr. Murray shall disclose to any third parties, except as required by law, at any time during or subsequent to the term of this Agreement, any Confidential Information. ‘Confidential Information’: includes proprietary information, technical data, trade secrets or know-how, including, but not limited to, the terms and conditions of this Agreement, research, product plans, products, services, suppliers, customer lists and customers, prices and costs, markets, inventions, technology, formulas, specifications, designs, drawings, marketing, licenses, finances, budgets and other business information. Confidential information does not include information that is or becomes publicly known through no fault of the recipient, is rightfully obtained from another without breach of any obligation of confidentiality, or is independently developed by the recipient.",
+      "normalized_clause": "Parties shall keep Confidential Information confidential and not disclose it to third parties, except as required by law. Confidential Information includes proprietary information, technical data, trade secrets or know-how, research, product plans, etc. It does not include information that is publicly known, obtained from another without breach of confidentiality, or independently developed.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, including loss of profits. The total liability of each party for claims related to this Agreement will not exceed the fees paid in the previous 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement",
+    "summary": "Title: Development Agreement between Eton Pharmaceuticals Inc. and Aucta Pharmaceuticals Inc. Purpose: This agreement outlines the terms for a development partnership between Eton Pharmaceuticals Inc. and Aucta Pharmaceuticals Inc. for the development of certain products. Key Obligations: Eton Pharmaceuticals Inc. is responsible for the development, manufacturing, and marketing of the products. Aucta Pharmaceuticals Inc. grants exclusive rights to the products and provides technical and regulatory support. Both parties agree to maintain the confidentiality of each other's information. Notable Risks/Penalties: Either party can terminate the agreement if the other is in material breach or default. If terminated by Aucta, Eton Pharmaceuticals Inc. can keep any payments made up to the point of termination and market or dispose of any existing inventory. If terminated by Eton, Aucta may keep payments and revert all rights granted to Eton. Both parties are not liable for indirect, special, incidental, consequential, or exemplary damages related to",
+    "termination_clause": {
+      "raw_clause": "The Agreement may be terminated by either Party by written notice to the other at any time if the other Party (the “Breaching Party”) is in material breach or default of any of its obligations hereunder or any of its representations or warranties as follows: (i) the terminating Party shall send a written notice of the material breach or material default to the Breaching Party and",
+      "normalized_clause": "This Agreement can be terminated by either party with written notice if the other party is in material breach or default of any obligations, representations, or warranties.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The term ‘Confidential Information’ as used in this Agreement means all confidential information relating to the Parties’ business and operation, this Agreement’s term sheet, this Agreement and its terms, or other technical, business or financial information provided by the Parties as contemplated by this Agreement. The term ‘Confidential Information’ does not include information that (A) becomes generally available to the public other than as a result of disclosure by the receiving Party, (B) ",
+      "normalized_clause": "The definition of Confidential Information is provided. It includes any confidential information related to the parties' business, this agreement, its terms, or other technical, business, or financial information provided as per the agreement. It does not include information that becomes publicly available except due to disclosure by the receiving party.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "14.1 NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, WHETHER FORESEEABLE OR NOT, THAT ARE IN ANY WAY RELATED TO THIS AGREEMENT.",
+      "normalized_clause": "Neither party will be liable for any indirect, special, incidental, consequential or exemplary damages, whether foreseeable or not, related to this Agreement.",
+      "found": true
+    },
+    "source_path": "dataset\\EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement",
+    "summary": "This Development Agreement, dated November 6, 2019, between FuelCell Energy Inc. (FCE) and an undisclosed partner, outlines a collaborative effort for one or more projects within a specified timeframe (Term). The projects' details are described in mutually agreed upon documents (Project Descriptions). FCE retains control over the projects and any intellectual property arising from them. Both parties agree to maintain confidentiality of shared information, with exceptions for disclosures by third parties or situations where the information is independently developed. Breaches of confidentiality may result in penalties. Each party warrants that entering into this agreement does not conflict with any other obligations and that they have obtained necessary approvals. The agreement also includes provisions for termination, force majeure, and indemnification, among others. Notably, neither party is liable for consequential damages, except for breaches of confidentiality or restricted use provisions.",
+    "termination_clause": {
+      "raw_clause": "Article 12 (Term and Termination) to the extent any clause therein speaks to post termination rights and obligations",
+      "normalized_clause": "This contract includes a termination clause that outlines post-termination rights and obligations in Article 12.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party, or its Affiliate, on a non-confidential basis by a third party legally entitled to provide the information or material without restriction; d. the information or material was independently developed by employees or agents of the Receiving Party or its Affiliate who did not have access to relevant information provided by the Disclosing Party; and/or e. the information or material was released from the confidentiality obligations of this Agreement by the Disclosing Party’s written authorization. The later occurrence of any one of the aforementioned exceptions will not excuse any failure to adequately protect Confidential Information pursuant to this Agreement prior to the existence of the exception. More specific Confidential Information will not be deemed to be within the scope of this Agreement.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential, except for cases where the information is: a) disclosed by a third party legally entitled to provide it, b) independently developed by the Receiving Party's employees or agents without access to information provided by the Disclosing Party, c) released from the confidentiality obligations by the Disclosing Party's written authorization. Failure to adequately protect Confidential Information prior to the exception will not be excused. More specific Confidential Information is not within the scope of this Agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "rty be liable to the other Party under this Agreement for any consequential, indirect, special, incidental, punitive or exemplary loss or damage, including, without limitation, business interruption, cost of capital, loss of anticipated revenues and profits, loss of goodwill or increased operating costs, whether arising from contract, warranty, tort, strict liability or otherwise regardless of whether the possibility of such losses or damages have been made known to the first Party, and each Party hereby expressly waives all such rights and remedies, except for breach of any confidentiality or restricted use provisions of this Agreement and except as provided in Paragraph 11.04 (Exceptions to Limitations of Liability).",
+      "normalized_clause": "Parties are not liable for consequential, indirect, special, incidental, punitive or exemplary damages, including business interruption, cost of capital, loss of anticipated revenues and profits, loss of goodwill or increased operating costs, except for breach of confidentiality or restricted use provisions and as provided in Paragraph 11.04.",
+      "found": true
+    },
+    "source_path": "dataset\\FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_Option Agreement",
+    "summary": "This Development and Option Agreement between Harpoon Therapeutics Inc. and AbbVie outlines a collaboration for the development of certain compounds. Harpoon is responsible for preparing and obtaining necessary INDs, while AbbVie will provide financial support. Both parties must maintain confidentiality and are not liable for certain types of damages. The agreement can be terminated at any time, but any rights that have accrued prior to termination will still be valid. Notable risks include potential financial losses due to the limited liability clause and potential breaches of confidentiality.",
+    "termination_clause": {
+      "raw_clause": "Termination or expiration of this Agreement (either in its entirety or with respect to one (1) or more country(ies) or other jurisdiction(s)) for any reason shall be without prejudice to any rights that shall have accrued to the benefit of a Party prior to such termination or expiration. Such termination or expiration shall not relieve a Party from obligations that are expressly indicated to survive the termination or expiration of this Agreement.",
+      "normalized_clause": "This Agreement can be terminated for any reason. Any rights that have accrued prior to termination will still be valid. Termination does not release a party from obligations that are explicitly stated to survive the termination.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The receiving party must keep confidential all disclosed confidential information and use it only to perform the agreement. Disclosures are limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "S ARTICLE 11, Neither party nor any of its affiliates shall be liable for indirect, incidental, special, exemplary, punitive or consequential damages, including loss of profits or business interruption, however caused and on any theory of liability, whether in contract, tort, negligence, breach of statutory duty or otherwise in connection with or arising in any way out of the terms of this Agreement or the transactions contemplated hereby or the use of the licensed compounds or licensed products, even if advised of the possibility of such damages.",
+      "normalized_clause": "Neither party nor its affiliates will be liable for indirect, incidental, special, exemplary, punitive, or consequential damages, including loss of profits or business interruption. This applies regardless of the cause, theory of liability, and whether it's in contract, tort, negligence, breach of statutory duty, or otherwise, and even if advised of the possibility of such damages.",
+      "found": true
+    },
+    "source_path": "dataset\\HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_Option Agreement.pdf"
+  },
+  {
+    "contract_id": "HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement",
+    "summary": "Title: Co-Branding Agreement between Healthcentral Com and MLX (1999) This Co-Branding Agreement, dated November 8, 1999, outlines the terms and conditions for a partnership between Healthcentral Com and MLX. The primary purpose is to jointly develop, promote, and distribute co-branded products. Key Obligations: - Healthcentral Com is responsible for providing certain services, while MLX will supply products for co-branding. - Both parties must maintain confidentiality regarding any information, data, and reports obtained in connection with the Agreement. - Each party is responsible for their respective performance and any delays or failures due to force majeure events are excused. - Upon termination, parties must cease using each other's trademarks, return all property, and remove special links from their products. - Each party may only assign this Agreement with the prior written consent of the other, except in cases of assignment to affiliates or purchasers of all or substantially all of their",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either Party upon 30 days prior written notice to the other Party if 1) such other Party breaches any material term of this Agreement, unless such breach is cured within 30 days; or 2) if any of the terms of this Agreement that require mutual approval are not mutually agreed to; or by a Party immediately, without notice: (i) upon the institution by or against the other Party of insolvency, receivership, or bankruptcy proceedings or any other event of insolvency.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party breaches a significant term and fails to correct it within 30 days, or if mutually agreed terms are not agreed upon. It can also be terminated immediately without notice in case of insolvency, receivership, bankruptcy proceedings, or other insolvency events.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Each Party shall keep confidential any information, data and reports obtained in connection with this Agreement, unless such information, data and reports were already in the public domain or were rightfully received by the Party from a third party without a duty to keep such information confidential or were developed by the Party without the use of or reference to the other Party's confidential information or were approved for release in writing by the disclosing Party.",
+      "normalized_clause": "Parties must keep confidential any information, data, and reports obtained in connection with the Agreement, unless the information was already public, received from a third party without a duty to keep confidential, or developed independently or approved for release in writing by the disclosing Party.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "UNDER NO CIRCUMSTANCES SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT UNDER ANY CONTRACT, NEGLIGENCE, STRICT LIABILITY, TORT OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR EXEMPLARY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF REVENUE OR GOODWILL OR ANTICIPATED PROFITS OR LOST BUSINESS), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "normalized_clause": "No indirect, incidental, consequential, special or exemplary damages; liability capped at the subject matter of the agreement.",
+      "found": true
+    },
+    "source_path": "dataset\\HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement",
+    "summary": "This Development Agreement, dated December 23, 2019, between Hf Enterprises Inc. (Developer) and DSS, outlines the terms for the development of a project. The key obligations of DSS include providing the Technology, which is its sole and exclusive property, and ensuring it has the authority to enter into the agreement. The Developer's obligations include using the Technology to develop the project and keeping it confidential for five years post-agreement term. Notable risks and penalties include termination of Developer's rights upon the sale or transfer of its assets or a majority interest, breach of agreement leading to irreparable damages and potential legal action, and liability for reasonable attorney's fees and costs in the event of a breach. The agreement also includes a Mutual Non-Disclosure Agreement (NDA) attached as Exhibit A.",
+    "termination_clause": {
+      "raw_clause": "The rights of Developer under this Agreement shall immediately cease and be terminated upon the sale or transfer of all or substantially all of the assets of Developer unless an assignment of such rights pursuant to such sale or transfer has been previously approved in writing by DSS. The rights of Developer under this Agreement shall immediately cease and be terminated upon the sale or transfer of no less than a majority of, or a controlling interest in or over, the voting capital or ownership capital of Developer unless an assignment of such rights pursuant to such sale or transfer has been previously approved in writing by DSS.",
+      "normalized_clause": "Termination: The rights of Developer under this Agreement will terminate upon the sale or transfer of all or substantially all of Developer's assets or a majority or controlling interest in Developer, unless previously approved in writing by DSS.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The parties acknowledge that they have entered into that certain Mutual Non-Disclosure Agreement dated as of January 18, 2018 (the “NDA”), a copy of which is attached hereto as Exhibit A. The terms of the NDA shall be deemed to be incorporated by reference into this Agreement, mutatis mutandis. During the Term of this Agreement and thereafter for a period of five (5) years, the parties shall be bound by all of the protective terms and conditions of the NDA.",
+      "normalized_clause": "Parties are bound by the terms of a Mutual Non-Disclosure Agreement (NDA) for five years after the agreement term. The NDA is attached as Exhibit A.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "9.6. Irreparable Damage. The parties acknowledge and agree that any material breach of this Agreement may subject the other to irreparable injury for which monetary damages may not be an adequate remedy. Therefore, in addition to any remedies otherwise available, the non-breaching party may be entitled to injunctive relief and specific performance to enforce the terms of this Agreement. The breaching party shall pay all reasonable attorney's fees and costs incurred by the non-breaching party in enforcing this Agreement.",
+      "normalized_clause": "Liability: The breaching party may be liable for irreparable damages, and the non-breaching party may seek injunctive relief and specific performance. The breaching party will also pay reasonable attorney's fees and costs.",
+      "found": true
+    },
+    "source_path": "dataset\\HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement",
+    "summary": "Title: Development Agreement between iBio Inc. and CC-Pharming\n\nThis agreement outlines the terms for a joint development project between iBio Inc. and CC-Pharming. Key obligations include each party's responsibility to perform their respective tasks and meet milestones as set forth in a Statement of Work. Notable risks include potential termination due to breach or non-performance, with a 30-day notice period and liability only if the breach is not cured within that time. Confidentiality is also a significant aspect, with both parties agreeing to limit disclosure of Confidential Information for 5 years from the signing date. In case of disputes, designated executives from both parties will attempt resolution, and the prevailing party may recover reasonable attorneys' fees and costs.",
+    "termination_clause": {
+      "raw_clause": "If either Party to this Agreement fails to perform or violates any material obligation of this Agreement, then, upon thirty (30) days written notice to the breaching Party specifying such failure or violation, the non-breaching Party may terminate this Agreement without liability, unless:",
+      "normalized_clause": "Termination: Either party can terminate the Agreement if the other party fails to perform or violates any material obligation, given a 30-day written notice. The termination is without liability unless the breaching party cures the breach within the notice period.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The parties agree that limitations on disclosure of Confidential information under section 7.3 shall last 5 years from signing date.",
+      "normalized_clause": "Parties agree to limit disclosure of Confidential Information for 5 years from the signing date.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Attorney’s Fees. In the event that any claim, suit, action or proceeding is instituted or commenced by any Party hereto against any other Party arising out of or related to this Agreement, the prevailing Party will be entitled to recover its reasonable attorneys’ fees, expert fees, expenses and court costs from the non-prevailing Party.",
+      "normalized_clause": "If a claim, suit, action, or proceeding is initiated against a party related to this Agreement, the prevailing party is entitled to recover their reasonable attorneys' fees, expert fees, expenses, and court costs from the non-prevailing party.",
+      "found": true
+    },
+    "source_path": "dataset\\IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement (ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11) outlines a partnership between two parties for a specified term. The key obligations include Impresse's payment obligations for the duration of the agreement, maintaining confidentiality of each other's information, and neither party binding the other or assuming responsibility for their actions. The agreement can be terminated immediately if there is a material breach. Notable risks and penalties include potential legal action for breach of confidentiality and financial penalties for late payments, with interest accruing at a rate of 1% per month or the maximum permitted by law. Both parties are independent contractors and have no employer-employee, agency, joint venture, or partnership relationship.",
+    "termination_clause": {
+      "raw_clause": "Either party may terminate this Agreement immediately upon written notice to the other party in the event of any material breach.",
+      "normalized_clause": "This Agreement can be terminated by either party immediately upon written notice if there is a material breach.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "7. CONFIDENTIALITY\n  7.1. CONFIDENTIALITY OBLIGATIONS. Except as permitted elsewhere under this Agreement, each party agrees to take Reasonable Steps (as defined below) (a) to receive and maintain the Confidential Information of the other party in confidence and (b) not to disclose such Confidential Information to any third parties, provided, the receiving party may disclose such Confidential Information to its employees, representatives and agents who have a need to know such information for purposes of carrying out the terms of this Agreement. Neither party hereto shall use all or any part of the Confidential Information of the other party for any purpose other than to perform its obligations under this Agreement. The parties will take Reasonable Steps (as defined below) to ensure the confidentiality of the Confidential Information.",
+      "normalized_clause": "Each party must keep the other party's confidential information confidential and not disclose it to third parties, except to employees, representatives, and agents who need to know the information for the purpose of fulfilling the agreement. The parties must also ensure the confidentiality of the confidential information and not use it for any purpose other than to fulfill their obligations under the agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Neither party shall have any authority to act for or to bind the other party in any way, to alter any of the terms or conditions of any of the other party's standard forms of invoices, sales agreements, warranties or otherwise, or to warrant or to execute agreements on behalf of the other or to represent that it is in any way responsible for the acts, debts, liabilities or omissions of the other party.",
+      "normalized_clause": "Neither party has the authority to bind the other party, alter terms, warrant or execute agreements, or represent responsibility for the other party's acts, debts, liabilities, or omissions.",
+      "found": true
+    },
+    "source_path": "dataset\\ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement, dated March 29, 2001, between Integrity Media Inc. and a third party (TL), outlines the terms for a partnership to co-brand certain products. The key obligations of Integrity Media Inc. include providing the rights to co-brand the products, ensuring no restrictions on the materials or properties furnished, and paying royalties for the co-branded products. TL, on the other hand, is responsible for purchasing a minimum quantity of the co-branded products, using them for promotion, and maintaining confidentiality of disclosed information. Notable risks or penalties include the termination of the agreement if either party assigns their rights to an unrelated third party, and potential liability limitations, with neither party being liable for indirect, special, incidental, or consequential damages, and total liability not exceeding the fees paid in the past 12 months.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon six-months (6-months) written notice in the event of an assignment by either party of its rights to an unrelated third party. The other party shall be given written notice, then in such event the other party may upon six-months (6-months) written notice terminate this Agreement.",
+      "normalized_clause": "This Agreement can be terminated by either party with a six-months written notice if there is an assignment of rights to an unrelated third party. The other party must be given written notice, and in such a case, the other party can also terminate the Agreement with another six-months written notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The receiving party must keep confidential all disclosed confidential information and use it only for the purpose of performing under the agreement. Disclosures are limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, including loss of profits. The total liability of each party for claims arising from this Agreement will not exceed the fees paid in the past 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement between Invenda Corp and Excite@Home, filed with the Securities and Exchange Commission, outlines the terms for a co-branded application. The primary purpose is to establish the rights and responsibilities for the distribution and maintenance of the co-branded application.\n\nInvenda Corp warrants ownership of the content provided and compliance with the description and technical specifications. Excite@Home is responsible for the hosting and maintenance of the application at agreed-upon rates.\n\nBoth parties agree to maintain the confidentiality of each other's proprietary and confidential information. There is a limitation of liability, but certain exceptions apply. In the event of termination, each party will return all confidential information of the other party and pay all earned and undisputed outstanding amounts owed.\n\nThe agreement also includes provisions for publicity, indemnities, post-termination communications, and dispute resolution. Certain sections, such as terms, modifications, and payments, have been redacted due to confidential treatment requests.",
+    "termination_clause": {
+      "raw_clause": "Each Party will promptly return all Confidential Information of the other party.",
+      "normalized_clause": "Upon termination, each party will return all confidential information of the other party.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "18. CONFIDENTIALITY\n a) For the purposes of this Agreement, 'Confidential Information' means information about the disclosing party's (or its suppliers') business or activities that is proprietary and confidential, which shall include all business, financial, technical and other information of a party marked or designated by such party as 'confidential' or 'proprietary'; or information which, by the nature of the circumstances surrounding the disclosure, ought in good faith to be treated as confidential.\n b) Confidential Information will not include information that (i) is in or enters the public domain without breach of this Agreement, (ii) the receiving party lawfully receives from a third party without any obligation to keep such information confidential, or (iii) is independently developed by the receiving party without use of or reference to the disclosing party's Confidential Information.",
+      "normalized_clause": "The parties must keep confidential any proprietary and confidential information about each other's business, financial, technical, or other information marked or designated as such, or information that, by the nature of the circumstances, should be treated as confidential. Confidential information does not include information that is already in the public domain, received from a third party without an obligation to keep it confidential, or independently developed by the receiving party.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "20. LIMITATION OF LIABILITY\nExcept as provided by Sections 19(a)(iii)(2), (a)(iii)(3), (b)(iii)(2) and (b)(iii)(3):",
+      "normalized_clause": "Limitation of Liability: Except as specified in Sections 19(a)(iii)(2), (a)(iii)(3), (b)(iii)(2) and (b)(iii)(3), there is a limitation of liability.",
+      "found": true
+    },
+    "source_path": "dataset\\InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement, dated April 27, 2000, between LeadersOnline and VerticalNet, outlines their collaboration for co-branding and marketing services. The agreement specifies that neither party will be considered an employer, agent, joint venture, or partner of the other. Key obligations include maintaining confidentiality, providing services, and granting licenses. Upon termination, both parties jointly own User Data, which must be used in accordance with VerticalNet's privacy policy and applicable laws. Notable risks and penalties include liability limitations for indirect, consequential, or incidental damages, and potential breach of confidentiality provisions, which may result in irreparable harm and the agreement's continued enforcement.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon thirty (30) days' prior written notice to the other party if the other party materially breaches any representation, warranty or covenant under this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice describing the breach.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party materially breaches any terms and fails to rectify the breach within 30 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Each Party acknowledges and agrees that the provisions of this Article 9 are reasonable and necessary to protect the other Party's interests in its Confidential Information, that any breach of the provisions of this Article 9 may result in irreparable harm to such other Party, and that the remedy at law for such breach may be inadequate. Accordingly, in the event of any breach or",
+      "normalized_clause": "Each party acknowledges and agrees that the provisions of this Article 9 are necessary to protect the other party's interests in its confidential information. Any breach of these provisions may result in irreparable harm to the other party, and the remedy at law for such breach may be inadequate. In the event of any breach, the provisions will remain in effect.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Neither party will be liable for any special, indirect, consequential, exemplary or incidental damages arising out of or related to this Agreement, however caused and under any theory (including negligence), even if such party has been advised of the possibility of such damages.",
+      "normalized_clause": "Neither party is liable for any special, indirect, consequential, or incidental damages arising from this Agreement, regardless of the cause and under any theory of liability (including negligence).",
+      "found": true
+    },
+    "source_path": "dataset\\LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement",
+    "summary": "This Development Agreement, dated March 30, 2020, outlines a partnership between two parties (LEA and T&B) for a specific project. The key obligations include LEA developing certain educational programs and T&B providing financial support, marketing, and other resources. The agreement is binding and can only be modified in writing. Each party is required to indemnify the other for any claims, damages, expenses, and legal fees arising from breaches of their representations, warranties, or covenants. Notable risks include potential liabilities for indirect, special, or consequential damages, and the agreement may be terminated if either party breaches the agreement and fails to cure within 30 days, or if either party becomes insolvent or files for bankruptcy. Confidential information shared under this agreement must be kept confidential, except for information that is already publicly known or disclosed with written approval. The agreement also includes a severability clause, ensuring that if any provision is",
+    "termination_clause": {
+      "raw_clause": "The Agreement may be terminated:\n(i) immediately by either party in the event of a breach of this Agreement by the other party that is susceptible of cure and such breach is not cured within the 30-day period after written notice of such breach to the breaching party.\n(ii) by either party, immediately, if the other party becomes insolvent, makes an assignment for the benefit of its creditors, or becomes the subject of any bankruptcy or insolvency proceedings, and such proceedings are not vacated within sixty (60) days of their initiation.",
+      "normalized_clause": "The Agreement can be terminated immediately by either party if there is a breach of the agreement that can be cured and the breach is not cured within 30 days of written notice. Either party can also terminate immediately if the other party becomes insolvent, files for bankruptcy or insolvency proceedings, and these proceedings are not vacated within 60 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "All information relating to the products or operations of a party, which is provided to the other party, or to which the other party otherwise obtains access, pursuant to, or as a result of, this Agreement shall be treated as Confidential Information hereunder, except such information which the other party can clearly show: (a) at the time of this Agreement is publicly and openly known; (b) after the date of this Agreement becomes generally known through no fault of the disclosing party; (c) was in the possession of the receiving party prior to the time of disclosure by the disclosing party; (d) is learned by the receiving party through legitimate means other than from the disclosing party or obtained from the public domain; or (e) is disclosed by the receiving party with the written approval of the disclosing party.",
+      "normalized_clause": "All information provided or accessed due to this Agreement is considered Confidential Information, except for information that is already publicly known, becomes generally known, was previously known, learned through other means, or disclosed with written approval.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Neither party will, under any circumstances, be liable to the other party for any lost profits or any other special, indirect or consequential damages arising out of or relating to this Agreement even if the party has been notified of the possibility of such damages.",
+      "normalized_clause": "Neither party will be liable for indirect, special, or consequential damages, including loss of profits, even if advised of the possibility of such damages.",
+      "found": true
+    },
+    "source_path": "dataset\\LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, dated August 2, 2005, between LinkPlusCorp and Axiometric, outlines their relationship for the sale of AMR (Automatic Meter Reading) product suites. The key obligation for Axiometric is to issue manufacturing requests to LinkPlusCorp, who has the first right of refusal. If LinkPlusCorp declines or cannot meet competitive terms, Axiometric can award the contract to another manufacturer. LinkPlusCorp's main obligation is to manufacture the AMR products according to the provided specifications.\n\nNotable risks and penalties include a material breach of the Agreement if payments are not received within 60 days after their due date. Additionally, both parties agree to keep each other's Confidential Information confidential, with disclosures limited to need-to-know employees bound by similar confidentiality obligations. Liability is capped at fees paid in the prior 12 months, with no liability for indirect or consequential damages. Both parties waive their right to a trial by jury and consent to personal jurisdiction and venue in specified courts.",
+    "termination_clause": {
+      "raw_clause": "Payments not received within sixty (60) days after their due date will be considered a material breach of this Agreement",
+      "normalized_clause": "If payments are not received within 60 days after their due date, it will be considered a material breach of the Agreement",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only for the purpose of performing under this Agreement. Disclosures are limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "No indirect or consequential damages; aggregate liability capped at fees paid in prior 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement",
+    "summary": "This Development Agreement between Liquidmetal Technologies Inc. and Eutectix outlines the terms for the development of certain technical information. The key obligations include Liquidmetal disclosing confidential information to Eutectix, who must keep it confidential and use it solely for the purpose of this agreement. Eutectix can share the information with its representatives, but only those who are informed of the confidentiality obligations and have a need to know. Notable risks and penalties include potential legal action for breach of confidentiality, and neither party will be liable for indirect, incidental, or consequential damages. The agreement is the entire understanding between the parties and can only be changed with written agreement from both parties.",
+    "termination_clause": {
+      "raw_clause": "Either Party may terminate this Agreement hereunder for default if the other Party materially breaches this Agreement; provided, however, no termination right shall accrue until thirty (30) days after the defaulting Party is notified in writing of the material breach and has failed to cure within the thirty (30) day period after notice of a material breach.",
+      "normalized_clause": "This Agreement can be terminated by either party if the other party materially breaches the agreement. However, no termination rights accrue until 30 days after the defaulting party is notified in writing of the material breach and fails to cure within the 30-day period following the notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Recipient may only disseminate the Discloser’s Confidential Information to its Representatives who have been informed of the Recipient’s obligations under this Agreement and are bound by an obligation of confidentiality and non-use with respect to the Discloser’s Confidential Information at least as broad in scope as the Recipient’s obligations under this Agreement. The Recipient agrees to reasonably restrict disclosure of the Discloser’s Confidential Information to the smallest number of the Recipient’s Representatives which have a need to know the Confidential Information. The Recipient shall be responsible for enforcing this Agreement as the Recipient’s Representatives and shall take reasonable measures to protect the confidentiality of the Confidential Information.",
+      "normalized_clause": "The Recipient must keep Discloser’s Confidential Information confidential and use it only for the purpose of this Agreement. Disclosure is limited to Representatives who are informed of Recipient’s obligations, bound by confidentiality, and have a need to know the Confidential Information. Recipient is responsible for enforcing confidentiality among Representatives and for protecting the Confidential Information.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "13. LIMITATION OF LIABILITY.\nNEITHER PARTY SHALL BE LIABLE TO OTHER PARTY FOR ANY LOST PROFITS, LOST REVENUES, OR ANY OTHER\nINCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THIS AGREEMENT\nOR ANY ORDER, OR OUT OF THE PERFORMANCE OR BREACH OF THIS AGREEMENT OR ANY ORDER, EVEN IF THE PARTY HAS\nBEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+      "normalized_clause": "Neither party will be liable to the other for any lost profits, lost revenues, or any other incidental, indirect, punitive, special or consequential damages whatsoever arising out of this Agreement or any order, or out of the performance or breach of this Agreement or any order, even if the party has been advised of the possibility of such damages.",
+      "found": true
+    },
+    "source_path": "dataset\\LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement, dated September 11, 2003, between Lucent Technologies Inc. and mPhase, Inc., outlines the terms for the use of Lucent's branding logo on mPhase's multi-access products. Key obligations include mPhase's right to use the Lucent Co-Branding Logo in approved uses, adherence to specified guidelines, and prompt notification of any unauthorized use of the logo by third parties. Lucent, on the other hand, agrees to review and approve the use of the logo and may inspect the products for compliance. Both parties are exempt from liability for indirect, special, incidental, or consequential damages, with total liability capped at fees paid in the previous 12 months. Termination requires written notice at least 30 days prior to the desired date. The agreement supersedes all previous discussions and replaces all past dealings or industry customs.",
+    "termination_clause": {
+      "raw_clause": "The Agreement must give written notice to the other party at least thirty (30) days prior to the desired date of termination.",
+      "normalized_clause": "This Agreement can be terminated by providing written notice at least 30 days prior to the desired termination date.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "This Agreement, including the Schedules and Addenda hereto, constitutes the entire Agreement between the Parties concerning the subject matter hereof and supersedes all proposals, oral or written, all negotiations, conversations, and/or discussions between the Parties relating to this Agreement and all past courses of dealing or industry customs.",
+      "normalized_clause": "This Agreement is the complete understanding between the parties regarding the subject matter and replaces all previous discussions, proposals, and agreements. It supersedes all past dealings or industry customs.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, including loss of profits. The total liability for each party for claims related to this Agreement will not exceed the fees paid in the previous 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement",
+    "summary": "Title: Co-Branding Agreement between MusclePharm Corp and Lender (2017)\n\nSummary: This agreement outlines a co-branding partnership between MusclePharm Corp and a Lender. MusclePharm agrees to pay the Lender cash consideration for endorsement services, with the Lender responsible for reporting and paying applicable taxes. Both parties are required to indemnify each other for any claims arising from breaches of warranties or agreements. Key obligations include MusclePharm providing the Lender with an IRS Form 1099 annually, and the Lender maintaining confidentiality of disclosed information. Termination can occur if either party fails to meet specified obligations, with a notice period of three days. Notable risks include potential liabilities for breaches of warranties or agreements, and penalties for unauthorized assignment or disclosure of confidential information.",
+    "termination_clause": {
+      "raw_clause": "If Musclepharm fails, refuses or is unable for any reason to cure the MusclePharm Events of Default to the reasonable and objective satisfaction of the terminating party, then the AS Parties may terminate this Agreement by giving a written termination notice which shall be effective on third calendar day after the date of the termination notice",
+      "normalized_clause": "Termination: Either party can terminate the agreement by giving a written notice if Musclepharm fails to cure the specified defaults to the satisfaction of the terminating party. The termination becomes effective three calendar days after the date of the termination notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Each party shall hold in strict confidence all such information. This obligation shall not apply to any information which: (a) becomes known to the general public through no fault of either party; (b) is required to be disclosed in the enforcement of rights hereunder, or (c) is required to be disclosed by any state or federal statue, regulation or court order.",
+      "normalized_clause": "Each party must keep confidential all disclosed information, except for information that becomes public, is required for rights enforcement, or is required by law.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "No indirect or consequential damages; aggregate liability capped at fees paid in prior 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement",
+    "summary": "Title: Co-Branding Agreement between Neoforma Inc. and VerticalNet Inc.\n\nThis Co-Branding Agreement, effective December 2, 1999, outlines the terms and conditions for a partnership between Neoforma Inc. and VerticalNet Inc. The key objective is to collaborate in the co-branding of their medical product listings, with each party benefiting from commissions based on net revenues.\n\nNeoforma Inc. and VerticalNet Inc. act as independent contractors, without any employer-employee, agency, joint venture, or partnership relationship. Each party is responsible for its own acts, debts, liabilities, and omissions.\n\nBoth parties must exercise good faith and maintain confidentiality regarding each other's confidential information. Termination can occur with a 30-day written notice if a material breach is not rectified within 30 days.\n\nNeither party will be held liable for indirect, consequential, or incidental damages, except in cases of breach of contract or indemnification obligations. This agreement constitutes the entire agreement between the parties, superseding any prior agreements.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon thirty (30) days' written notice if the other party materially breaches any representation, warranty or covenant under this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice describing the breach. Sections 10.7 [PAYMENT TERMS]-10.10 [INTEREST], 11.3 [UPON TERMINATION] and 12-16; any payment obligations of the Parties hereunder accruing prior to the date of termination; and any other provision herein expressly surviving termination or necessary to interpret the rights and obligations of the Parties in connection with the termination of the term of this Agreement will survive the termination or expiration of this Agreement.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party materially breaches any term and fails to rectify the breach within 30 days. Certain sections and payment obligations will survive termination, and no third-party beneficiaries are intended.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Neither Party hereto shall use all or any part of the Confidential Information of the other Party for any purpose other than to perform its obligations under this Agreement. The Parties will take Reasonable Steps (as defined below) to ensure that their employees, representatives and agents",
+      "normalized_clause": "Neither Party shall use the Confidential Information of the other Party for any purpose other than to fulfill their obligations under this Agreement. Both parties will take reasonable steps to ensure their employees, representatives, and agents do not disclose the Confidential Information.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Except in connection with a breach by Either Party of Article 13, the Indemnification Obligations of Neoforma under Sections 15.4(c) [Indemnification by Neoforma] and (d) and the Indemnification Obligations of VerticalNet under Section 15.5(c) [Indemnification by VerticalNet] and (d), Neither Party will be liable for any special, indirect, consequential, exemplary or incidental damages arising out of or related to this Agreement, however caused and under any theory of liability (including negligence), Even if such Party has been advised of the possibility of such damages.",
+      "normalized_clause": "Neither Party will be liable for any special, indirect, consequential, exemplary or incidental damages arising out of or related to this Agreement, except in cases of breach of Article 13 or indemnification obligations as specified.",
+      "found": true
+    },
+    "source_path": "dataset\\NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement",
+    "summary": "This Development Agreement, dated February 28, 2020, between NLS Pharmaceuticals Ltd. and an unspecified party, outlines the terms for the development of certain products. The key obligations for both parties include maintaining confidentiality of shared information, using the information solely for the purposes of this agreement, and disclosing the information only to necessary employees, contractors, or sub-licensees. The agreement allows for early termination in case of material breach by either party, or in the event of a change of control, merger, or consolidation. Notable risks and penalties include potential legal action for breaching confidentiality obligations and limited liability for direct losses resulting from negligent or intentional breaches. The agreement also specifies that no punitive, indirect, consequential, or special damages are allowed.",
+    "termination_clause": {
+      "raw_clause": "19.4. Early Termination for Material Breach\n18\n19.5. Early Termination by the Licensor\n19\n19.6. Early Termination by the Licensee\n19",
+      "normalized_clause": "Early Termination:\n- For Material Breach: Upon occurrence of material breach by either party.\n- By the Licensor:\n- By the Licensee:",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "to maintain as secret and confidential all Confidential Information obtained directly or indirectly from the other Party (the ‘Disclosing Party’) in the course of this Agreement and to respect the Disclosing Party’s rights therein; to use such Confidential Information only for the purposes of this Agreement; and to disclose such Confidential Information only to those of its employees, contractors, and sub-licensees pursuant to this Agreement (if any) to whom and to the extent that such disclosure is reasonably necessary for the purposes of this Agreement.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only for the purposes of this Agreement; disclosures are limited to need-to-know employees, contractors, and sub-licensees.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Either Party shall only be liable for direct losses incurred by the other Party as a direct consequence of a negligent or intentional breach of this Agreement by such liable Party, and shall not be liable for any punitive or indirect damages, losses caused by business interruptions, loss of revenues, loss of profit, damages and loss of goodwill, or any reputational damages, and both Parties shall not be liable for any consequential damages.",
+      "normalized_clause": "Liability is limited to direct losses resulting from negligent or intentional breaches. No punitive, indirect, consequential, or special damages, business interruptions, loss of revenues, loss of profit, damages, loss of goodwill, or reputational damages are allowed.",
+      "found": true
+    },
+    "source_path": "dataset\\NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement between Paperexchange Com Inc and VerticalNet, effective March 22, 2000, outlines the terms for their collaboration. The parties agree to co-brand their respective platforms, with each party having the right to use the other's trademarks and logos. Key obligations include maintaining confidentiality, performing duties in good faith, and making payments based on revenue sharing. Notable risks include potential termination for cause during the initial term, breach of confidentiality leading to injunctive relief, and no liability for special, indirect, consequential, or incidental damages. The agreement also includes a disclaimer of warranties and an independent contractor clause.",
+    "termination_clause": {
+      "raw_clause": "If the agreement is terminated during the Initial Term by VerticalNet pursuant to Section 8.2 [Termination for Cause], (x) VerticalNet shall be released from its obligations under Section 5.8.1 [Non-Competition] and (y) PaperExchange's obligations under Sections 7.2 [Advertising Revenue] and 7.4 [Revenue Sharing] shall be extended for one year after the date of such termination, and (I) if the agreement is terminated during the Initial Term by PaperExchange pursuant to Section 8.2 [Termination for Cause], VerticalNet shall pay to PaperExchange, as liquidated damages, an amount equal to the product determined by multiplying (1) a fraction, the numerator of which shall be the number of days between the effective date of termination and the scheduled expiration date of the In",
+      "normalized_clause": "Termination for Cause: If the agreement is terminated during the Initial Term by either party, certain obligations and extensions apply.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Neither party hereto shall use all or any part of the Confidential Information of the other party for any purpose other than to perform its obligations under this Agreement. The parties will take Reasonable Steps (as defined below) to ensure that their employees, representatives and agents comply with this provision.",
+      "normalized_clause": "Parties must keep each other's Confidential Information confidential and use it only to fulfill their obligations under the Agreement. They must also ensure their employees, representatives, and agents comply with this confidentiality provision.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Neither party will be liable for any special, indirect, consequential, exemplary or incidental damages arising out of or related to this Agreement, however caused and under any theory of liability (including negligence), even if such party has been advised of the possibility of such",
+      "normalized_clause": "Neither party will be liable for any special, indirect, consequential, or incidental damages.",
+      "found": true
+    },
+    "source_path": "dataset\\PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1",
+    "summary": "The Co-Branding Agreement between PC Quote, Inc. and ABW outlines a partnership for co-branding a financial service. Key obligations include PC Quote providing market data information and ABW promoting the co-branded service. Notable risks and penalties include termination of the agreement if either party breaches material terms and fails to cure within 30 days of notice, and a limitation of liability for each party, with total liability not exceeding fees paid by ABW for the past 12 months. Confidentiality provisions will also survive the termination of the agreement.",
+    "termination_clause": {
+      "raw_clause": "Notwithstanding the provisions of (A), and (B) above, should a party to this Agreement be in material breach of the Agreement, the other party may terminate the Agreement thirty (30) days after notice of said material breach is received, and only if such material breach is not cured within thirty (30) days of receipt of notice.",
+      "normalized_clause": "This Agreement can be terminated by a party if the other party is in material breach and fails to cure within 30 days of receiving notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The provisions dealing with confidentiality and any other section of this Agreement, unless specifically stated otherwise, which may reasonably be interpreted or construed as surviving the completion, expiration, termination or cancellation of this Agreement, shall survive the completion, expiration, termination or cancellation of this Agreement.",
+      "normalized_clause": "Confidentiality provisions will survive the completion, expiration, termination or cancellation of this Agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid by ABW for the services during the most recent twelve (12) months of the Agreement. Such limitation shall be the extent of PCQ or ABW's liability regardless of the form in which any legal or equitable action may be brought against PCQ or ABW, and the foregoing shall constitute PCQ's or ABW's sole remedy. In no event will either party be responsible for lost profits or special indirect, incidental or consequential damages which ABW or PCQ incur or experience on account of entering into or relying on this Agreement, even if PCQ or ABW has been advised of the possibility of such damages.",
+      "normalized_clause": "No party will be liable for indirect, special, incidental or consequential damages, including loss of profits. The total liability of each party will not exceed the fees paid by ABW for the services during the most recent 12 months of the Agreement. This limitation applies regardless of the form of any legal or equitable action. Each party's liability is their sole remedy, and neither party will be responsible for lost profits or special damages.",
+      "found": true
+    },
+    "source_path": "dataset\\PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1.pdf"
+  },
+  {
+    "contract_id": "PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement2",
+    "summary": "This amendment, dated December 9, 1996, modifies the Co-Branding Agreement between PC Quote, Inc. (PCQ) and A.B. Watley, Inc. (ABW). The primary purpose is to define the terms for their joint branding efforts. Key obligations include maintaining confidentiality of shared information, using it solely for Agreement performance, and limiting disclosures to necessary employees bound by similar obligations. Either party can terminate the Agreement with a 30-day written notice if the other breaches terms and fails to correct within 30 days. Notable risks and penalties include limited liability for indirect, special, incidental, or consequential damages, with total liability for each party capped at fees paid in the previous 12 months.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon thirty (30) days' prior written notice to the other party if the other party materially breaches any representation, warranty or covenant under this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice describing the breach.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party materially breaches any terms and fails to correct the breach within 30 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only to perform the Agreement; disclosures limited to need-to-know employees bound by similar obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be responsible for indirect, special, incidental, or consequential damages, such as loss of profits. The total liability for each party regarding claims related to this agreement will not exceed the fees paid in the previous 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement2.pdf"
+  },
+  {
+    "contract_id": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1",
+    "summary": "This Software Development Agreement, dated February 11, 2020, outlines the terms for Pelican Delivers Inc. to engage Seattle Software Developers for the development of additional features for their software. The project includes POS integration, Google Maps API, payment processing, ID verification, reporting, and a customer-facing web application.\n\nKey obligations for Seattle Software Developers include developing the specified features, maintaining confidentiality, and adhering to the agreed-upon timeline. Pelican Delivers Inc. is responsible for providing necessary resources, approving the design, and ensuring timely payments.\n\nNotable risks and penalties include termination with a 30-day written notice for material breaches, potential liability limitations, and a cap on each party's total liability at the fees paid in the previous 12 months.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party upon thirty (30) days' written notice if the other party materially breaches any representation, warranty or covenant under this Agreement and fails to cure such breach within thirty (30) days following receipt of written notice describing the breach.",
+      "normalized_clause": "This Agreement can be terminated by either party with a 30-day written notice if the other party materially breaches any terms and fails to correct the breach within 30 days.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "Confidentiality: The Receiving Party must keep Confidential Information confidential and disclose it only to employees on a need-to-know basis who are bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, including loss of profits. The total liability of each party for claims arising from this Agreement will not exceed the fees paid in the previous 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement1.pdf"
+  },
+  {
+    "contract_id": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2",
+    "summary": "Title: Development Agreement between Pelican Delivers Inc. and Client\n\nPurpose: This agreement outlines the terms for a development project between Pelican Delivers Inc. (Developer) and a client (Client). The Developer will provide services, using the Client's confidential information, procedures, and intellectual property.\n\nKey Obligations:\n- Developer: Complete the project, maintain confidentiality, comply with laws, and indemnify the Client against losses arising from the project or Client's violations of laws.\n- Client: Provide necessary information, ensure legal compliance, and indemnify the Developer against losses arising from the Client's breach of the agreement or violations of laws.\n\nNotable Risks/Penalties: Breach of confidentiality may result in legal action seeking injunctive relief, and either party may terminate the agreement at any time.",
+    "termination_clause": {
+      "raw_clause": "11. Termination\n11.1 TERMINATION WITHOUT CAUSE\nEither Party may terminate this Agreement at any time during the term of this Agreement for any reason.",
+      "normalized_clause": "Either Party has the right to terminate this Agreement at any time during the agreement's term for any reason.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only to perform the Agreement; disclosures limited to need-to-know employees bound by similar obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Developer shall defend, indemnify and hold harmless Client, its members, owners, officers, employees, independent contractors and agents, from and against all losses, claims, liabilities or damages and any related costs and expenses, including attorneys' fees and costs arising out of, or in any way related to any claim or action against Developer arising out of or in any way related to: (a) Client's breach of this Agreement; (b) a breach of any agreement between Client and its clients or customers; (c) Client's gross negligence or willful misconduct; (d) Client's act or omission constituting a violation of applicable federal, state, local law or regulation; or (e) any claim made against Client asserting a violation of any third party right.",
+      "normalized_clause": "Developer is liable for defending, indemnifying, and holding harmless Client, its members, owners, officers, employees, independent contractors, and agents from all losses, claims, liabilities, damages, costs, and expenses, including attorneys' fees, related to any claim or action against Developer arising from Client's breach of the Agreement, Client's agreements with its clients or customers, Client's gross negligence or willful misconduct, Client's violations of federal, state, or local laws, or third-party rights.",
+      "found": true
+    },
+    "source_path": "dataset\\PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf"
+  },
+  {
+    "contract_id": "PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement",
+    "summary": "Title: Development Agreement between PhaseBio Pharmaceuticals Inc. and [Redacted]\n\nPurpose: This agreement outlines the terms for a pharmaceutical development project between PhaseBio Pharmaceuticals Inc. (PB) and another party.\n\nKey Obligations:\n- PB is responsible for executing security agreements, pledge agreements, and taking further action to perfect or continue the security interest of the other party (SFJ).\n- Both parties must maintain confidentiality of shared information, except when authorized or agreed in writing.\n- PB must ensure that any subcontractors involved in the project have adequate Professional Liability Insurance.\n- The agreement can be terminated if either party breaches the agreement materially, with breaching parties facing potential legal consequences.\n\nNotable Risks/Penalties:\n- Failure to maintain Professional Liability Insurance for subcontractors may lead to penalties.\n- Material breach of the agreement may result in immediate termination and potential legal action.",
+    "termination_clause": {
+      "raw_clause": "Either Party may terminate this Agreement immediately in the event of a material breach of this Agreement by the other Party provided that the breaching Party has received written notice of the breach.",
+      "normalized_clause": "This Agreement can be terminated immediately if there is a material breach of the agreement by either party, given that the breaching party has received written notice of the breach.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Receiving Party may disclose the other Party’s Confidential Information to its Affiliates, employees, agents, advisors, and independent contractors (including Permitted Third Parties) engaged by such Receiving Party, in each case (a) only to the extent such Persons need to know the Confidential Information solely in connection with the performance of this Agreement or, if applicable, the Program Transfer Agreement and (b) provided that each Person receiving Confidential Information must be bound by obligations of confidentiality and non-use at least as stringent as an equivalent in scope to those set forth in this ARTICLE 10 prior to any such disclosure and the Party making such disclosure to such Person shall be liable to the other Party for any breach of such obligations by such disclo",
+      "normalized_clause": "Receiving Party must keep the other Party's Confidential Information confidential and use it only for the purpose of performing this Agreement or the Program Transfer Agreement. Disclosures are limited to necessary persons bound by confidentiality and non-use obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "12.3.2.4 Professional Liability: Any subcontractor, including any Permitted Third Party, who provides professional services to such Party for the Clinical Trials, will obtain Professional Liability Insurance in lieu of Clinical Trial Insurance, with a minimum limit of [***] dollars ($[***]) per occurrence. Coverage must be maintained for at least [***] after the later of (i) expiration or early termination of this Agreement and (ii) release of the last Subject from the Clinical Trials.",
+      "normalized_clause": "Parties must have Professional Liability Insurance for subcontractors providing professional services for Clinical Trials. The insurance must have a minimum limit and coverage must be maintained for a certain period after the Agreement ends or the last subject is released from the Clinical Trials.",
+      "found": true
+    },
+    "source_path": "dataset\\PhasebioPharmaceuticalsInc_20200330_10-K_EX-10.21_12086810_EX-10.21_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement",
+    "summary": "Title: Co-Branding Agreement between Nettaxi.com and SpinRecords.com\n\nThis Co-Branding Agreement outlines the terms for a partnership between Nettaxi.com and SpinRecords.com to collaborate on branded web pages. Key obligations include negotiating additional services as needed, maintaining independence, and keeping confidential information secure. Notable risks include termination for insolvency, potential liabilities, and obligations to protect confidential information. Each party may terminate the agreement if the other becomes insolvent, and neither party will be liable for indirect, special, incidental, or consequential damages. Confidential information must be kept confidential and used only to perform the agreement, with disclosures limited to need-to-know employees bound by similar confidentiality obligations.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by a party for cause immediately upon the occurrence of and in accordance with the following:\n(a) Insolvency Event. Either may terminate this Agreement by giving written notice to the other party if the other party becomes insolvent or files a petition for bankruptcy, or if a receiver, trustee, custodian, or similar agent is appointed for the other party or any substantial part of its property.",
+      "normalized_clause": "This Agreement can be terminated by a party for cause immediately upon the following conditions:\n- Insolvency Event: Either party can terminate this Agreement if the other party becomes insolvent, files for bankruptcy, or a receiver, trustee, custodian, or similar agent is appointed for the other party or any substantial part of its property.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party agrees to hold in confidence all Confidential Information disclosed by the Disclosing Party and shall not use such Confidential Information except for the purpose of performing under this Agreement. Disclosure is permitted only to employees on a need-to-know basis and who are bound by similar confidentiality obligations.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only to perform the Agreement; disclosures limited to need-to-know employees bound by similar confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "UNDER NO CIRCUMSTANCES WILL EITHER PARTY BE LIABLE TO THE OTHER UNDER ANY CONTRACT, STRICT LIABILITY, NEGLIGENCE OR OTHER LEGAL OR EQUITABLE THEORY, FOR ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES OR LOST PROFITS IN CONNECTION WITH THE SUBJECT MATTER OF THIS AGREEMENT.",
+      "normalized_clause": "Neither party will be liable to the other for any indirect, special, incidental, or consequential damages, including loss of profits, under any contract, strict liability, negligence, or other legal or equitable theory, in connection with the subject matter of this Agreement.",
+      "found": true
+    },
+    "source_path": "dataset\\RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement",
+    "summary": "Title: Co-Branding Agreement between RandWorldwide Inc. and Dassault Systemes Purpose: This agreement outlines the terms for the joint marketing, promotion, and sale of a Co-Branded Service by RandWorldwide Inc. (Rand) and Dassault Systemes (Dassault). Key Obligations: - Rand and Dassault agree to use each other's Marks in the Co-Branded Service, with the condition that they will not use the other party's Marks in a disparaging or negative manner. - Each party retains all rights to their respective Marks, and the right to use the other party's Marks will terminate upon agreement termination. - Joint ownership of Know-How developed or shared under this agreement. - Each party may subcontract services necessary to perform their obligations, provided subcontractors comply with the agreement's terms and conditions. - Each party shall bear their own expenses, except as expressly provided for in the agreement. - The agreement may be assigned or transferred, but the assigning",
+    "termination_clause": {
+      "raw_clause": "Either party may terminate this Agreement at any time in the event that the other party is in default or breach of any material provision of this Agreement, and such default or breach continues unremedied for a period of sixty days after written notice thereof.",
+      "normalized_clause": "This Agreement can be terminated by either party if the other party breaches a significant term and fails to correct it within 60 days after receiving written notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "All communications and information disclosed by one party to the other party under this Agreement shall be subject to the terms and conditions of the CNDA.",
+      "normalized_clause": "All communications and information disclosed under this Agreement are subject to the terms and conditions of the Confidentiality Agreement (CNDA).",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "EXCEPT FOR LIABILITY ARISING FROM SECTION 9.3 [Intellectual Property Infringement], IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, LOSSES, OR EXPENSES INCLUDING, BUT NOT LIMITED TO, LOSS OF USE, LOSS OF PROFITS, OR LOSS OF GOODWILL, EVEN IF THAT",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, punitive or consequential damages, losses, or expenses, including but not limited to loss of use, loss of profits, or loss of goodwill, except for liability arising from Section 9.3 (Intellectual Property Infringement)",
+      "found": true
+    },
+    "source_path": "dataset\\RandWorldwideInc_20010402_8-KA_EX-10.2_2102464_EX-10.2_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement",
+    "summary": "Title: Development Agreement between Reed's Inc. and [Company]\n\nPurpose: This agreement outlines the terms for the development of certain deliverables by [Company] for Reed's Inc.\n\nKey Obligations:\n- Reed's Inc.: Obtain necessary approvals, ensure non-violation of other contracts, and protect Reed's trade secrets.\n- [Company]: Develop deliverables according to specifications, ensure intellectual property does not infringe on third parties, and maintain confidentiality of Reed's confidential information.\n\nNotable Risks/Penalties:\n- Breach of contract: Either party can terminate the agreement if the other party breaches terms and fails to cure within 30 days of notice.\n- Confidentiality: Failure to maintain confidentiality may result in penalties, including the Receiving Party being required to take steps to recover and prevent unauthorized use or dissemination of Confidential Information.\n- Liability: Neither party is liable for consequential, indirect, incidental, special, exemplary, punitive, or enhanced damages, lost profits or revenues, or diminution in value.",
+    "termination_clause": {
+      "raw_clause": "Either party may terminate this Agreement at any time if any of the following occur: (i) the other party fails to comply with any requirements or obligations under this Agreement, and such non-compliance is not cured within thirty (30) days following receipt of written notice describing the breach.",
+      "normalized_clause": "Termination: Either party can terminate this Agreement if the other party breaches any terms and fails to cure the breach within 30 days of receiving written notice.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Each of Reed’s and Company (a ‘Receiving Party’) shall hold in confidence and not make any commercial or other use of any or all Confidential Information conveyed, acquired or learned from the other party (the ‘Disclosing Party’) at any time, except in association with this Agreement. Except as otherwise expressly permitted herein, Receiving Party shall not disclose such information to third persons without the prior written consent of the Disclosing Party. Receiving Party shall limit access to the Confidential Information to those of its directors, officers, employees, agents, contractors, and advisors who have a need to know such information for the purposes of this Agreement and who are bound by confidentiality obligations no less restrictive than those set forth herein.",
+      "normalized_clause": "The Receiving Party must keep Confidential Information confidential and use it only for the purposes of this Agreement; disclosures to third parties require prior written consent of the Disclosing Party. Access to Confidential Information is limited to those with a need to know and who are bound by confidentiality obligations.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In NO EVENT SHALL EITHER PARTY BE LIABLE FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES, LOST PROFITS OR REVENUES OR DIMINUTION IN VALUE ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH ANY BREACH OF THIS AGREEMENT OR CLAIM HEREUNDER, REGARDLESS OF (A) WHETHER SUCH DAMAGES WERE FORESEEABLE, (B) WHETHER OR NOT IT WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND (C) THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.",
+      "normalized_clause": "Liability: Neither party is liable for consequential, indirect, incidental, special, exemplary, punitive or enhanced damages, lost profits or revenues or diminution in value arising from breach of the agreement or any claim under it, regardless of foreseeability, advice of possibility, or the legal or equitable theory upon which the claim is based.",
+      "found": true
+    },
+    "source_path": "dataset\\ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement",
+    "summary": "This Development Agreement between Revolution Medicines Inc. and Sanofi outlines a collaboration for the development, manufacture, and commercialization of certain product candidates. Key obligations include Sanofi's responsibility for funding development activities and providing certain technical and regulatory support, while Revolution Medicines Inc. will conduct research and development, and provide certain intellectual property. Notable risks and penalties include termination by Sanofi for convenience, potential liabilities for actions or inactions of affiliates, sublicensees, or subcontractors, and confidentiality obligations for all parties involved.",
+    "termination_clause": {
+      "raw_clause": "Terminations by Sanofi.\n(a) Terminations by Sanofi.\n   (i) Termination by Sanofi for Convenience. Sanofi may terminate this Agreement (A) in its entirety by providing [***] written notice of termination to RevMed or (B) on a country-by-country or Product-by-Product basis by providing [",
+      "normalized_clause": "Sanofi may terminate this Agreement for convenience by providing written notice to RevMed, either in its entirety or on a country-by-country or Product-by-Product basis.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "1.21 ‘Confidential Information’ of a Party means all proprietary Know-How, unpublished patent applications and other non-public information and data of a financial, commercial, business, operational or technical nature of such Party that is disclosed by or on behalf of such Party, its Affiliates or its or their Sublicensees, or otherwise made available to the other Party, its Affiliates or its or their Sublicensees, prior to, on or after the Effective Date, whether made available orally, in writing or in electronic form in connection with this Agreement or any Ancillary Agreement, including the terms of this Agreement and any Ancillary Agreements, information comprising or relating to concepts, discoveries, inventions, data, designs or formulae in connection with this Agreement.",
+      "normalized_clause": "The Party receiving Confidential Information must keep it confidential and use it only for the purposes of this Agreement. The Confidential Information includes proprietary Know-How, unpublished patent applications, and other non-public information and data of a financial, commercial, business, operational, or technical nature.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Each Party shall remain liable for any action or failure to act by its Affiliates, Sublicensees or subcontractors to whom such Party’s obligations under this Agreement have been delegated, subcontracted or sublicensed and which action or failure to act would constitute a breach of this Agreement if such action or failure to act were committed by such Party. Such Party shall require that such Affiliates, Sublicensees and subcontractors agree in writing to comply with the applicable terms and conditions of this Agreement. Without limiting the foregoing, if a Party first engages a subcontractor after the Effective Date to perform any activities assigned to it under this Agreement, such Party shall require that such subcontractor be bound by written obligations of confidentiality and non-us",
+      "normalized_clause": "Each party is liable for actions or inactions of their affiliates, sublicensees, or subcontractors that would breach the agreement. Parties must require these entities to agree in writing to comply with the agreement's terms. If a party hires a subcontractor after the effective date, the subcontractor must be bound by written confidentiality and non-use obligations.",
+      "found": true
+    },
+    "source_path": "dataset\\RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement",
+    "summary": "This Development Agreement between Ritter Pharmaceuticals Inc. and Qualigen, Inc. outlines the terms for the development of certain products. The key obligations of Ritter Pharmaceuticals include developing the products according to a specified development plan, maintaining confidentiality of Qualigen's Confidential Information, and indemnifying Qualigen from certain claims. Qualigen, on the other hand, is responsible for providing certain Confidential Information, and indemnifying Ritter Pharmaceuticals from claims related to its products. The agreement allows for termination under two conditions: if Qualigen fails to meet a milestone in the development plan, or if either party gives 90 days' written notice of impending termination. Notable risks and penalties include potential breach of confidentiality, which could result in financial penalties, and failure to meet development plan milestones, which could lead to termination of the agreement.",
+    "termination_clause": {
+      "raw_clause": "Sekisui may terminate this Agreement upon prior written notice (i) in the event of any failure of Qualigen to meet a milestone set forth in the Development Plan (as it may be amended by the Parties from time to time), or (ii) at any other time upon ninety (90) days’ prior written notice of impending termination.",
+      "normalized_clause": "Sekisui has the right to terminate this Agreement with written notice. Termination can occur under two conditions: (i) if Qualigen fails to meet a milestone in the Development Plan, or (ii) at any time with 90 days' written notice of impending termination.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Party which disclosed Confidential Information of the other to any Third Party (or to any such Affiliate) shall be responsible and liable for any disclosure or use by such Third Party or Affiliate (or its disclosees) which would have violated this Agreement if committed by the Party itself. Neither Party shall use Confidential Information of the other except as expressly allowed by and for the purposes of this Agreement or in accordance with the exercise of their rights under this Agreement or in accordance with customary permitted practice (such as to see",
+      "normalized_clause": "Parties shall keep each other's Confidential Information confidential and shall not disclose or use it except as expressly allowed by this Agreement, for the purposes of this Agreement, or in accordance with customary permitted practice.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "Neither Party shall be responsible and liable for any disclosure or use by such Third Party or Affiliate (or its disclosees) which would have violated this Agreement if committed by the Party itself.",
+      "normalized_clause": "Neither Party will be held responsible or liable for any disclosure or use of Confidential Information by a Third Party or Affiliate that would constitute a breach of this Agreement if committed by the Party itself.",
+      "found": true
+    },
+    "source_path": "dataset\\RitterPharmaceuticalsInc_20200313_S-4A_EX-10.54_12055220_EX-10.54_Development Agreement.pdf"
+  },
+  {
+    "contract_id": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, between SouthernStar Energy Inc. and element 5, outlines terms for promoting software products on element 5's website. Key obligations include element 5 providing order processing, payment forwarding, and end-user service, while the Software Publisher offers technical support. The Software Publisher is responsible for providing advertising material for integration into the Affiliate's website. Notable risks and penalties include the Affiliate's liability for the content of its website and the obligation to delete links to the Software Publisher's websites upon termination. Element 5 reserves the right to reject queries and orders that do not meet its requirements. Both parties can cancel the agreement at any time, but additional agreements, changes, or additions require written confirmation. Liability is limited, but does not apply to claims arising from initial incapacity, justifiable impossibility, or product liability. If the Software Publisher violates an essential obligation, the obligation to pay restitution is limited to",
+    "termination_clause": {
+      "raw_clause": "'When the agreement ends, all usage rights of the Affiliate and Software Publisher accorded by this agreement with regard to the provided logos or Web site contents expire.'\n'Upon termination of the relationship under this agreement, the Affiliate is obligated to undertake all of the technical measures necessary to delete from its Web site all links that refer to the Web sites of element 5 or to the Software Publisher.'",
+      "normalized_clause": "Upon termination of the agreement, the Affiliate is obligated to delete all links referring to the Web sites of the Software Publisher from its own website.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Additional agreements, changes or additions are valid only if [element 5] has confirmed them in writing. The same applies to the warranting of properties.",
+      "normalized_clause": "Additional agreements, changes, or additions are valid only if confirmed in writing. This includes the warranting of properties.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "The limitation of liability does not apply to claims arising through initial incapacity or in case of justifiable impossibility. Any possible product liability claims are unaffected by the above limitations. Insofar as element 5 or the Software Publisher violates an essential obligation under the agreement, the obligation to pay restitution is limited to the damages that typically arise.",
+      "normalized_clause": "The limitation of liability does not apply to claims arising from initial incapacity, justifiable impossibility, or product liability. If the Software Publisher violates an essential obligation, the obligation to pay restitution is limited to typical damages.",
+      "found": true
+    },
+    "source_path": "dataset\\SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, between SteelVaultCorp and Marketing Affiliate, outlines their partnership for data transfer and database coordination. Key obligations include mutual agreement on operational specifications, non-solicitation of Equidata's existing business customers, and maintaining confidentiality of each other's proprietary information. Notable risks and penalties include termination for cause with 30-day notice or immediate termination if Marketing Affiliate defaults on payment or breaches the Agreement, and liability limitations for indirect or consequential damages, with aggregate liability capped at fees paid in the prior 12 months.",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party with cause upon thirty (30) days written notice. Upon Marketing Affiliate’s default in payment or other breach of this Agreement, Equidata may terminate this Agreement without notice to Marketing Affiliate.",
+      "normalized_clause": "This Agreement can be terminated by either party with cause after providing a 30-day written notice. If Marketing Affiliate defaults on payment or breaches this Agreement, Equidata can terminate the Agreement without giving notice to Marketing Affiliate.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The Receiving Party may not disclose or use the Disclosing Party’s Confidential and Proprietary Information for any reason other than in the performance of this Agreement. It is agreed any information received or collected by Marketing Affiliate about its Customers or potential Customers, including information used to enroll Customers is Proprietary as defined by this section and will not be used by Equidata in any manner other than as outlined herein.",
+      "normalized_clause": "The Receiving Party must keep the Disclosing Party's Confidential and Proprietary Information confidential and use it only for the purpose of performing this Agreement. The information received or collected by Marketing Affiliate about its Customers or potential Customers, including information used to enroll Customers, is considered Proprietary and will not be used by Equidata in any manner other than as outlined in the Agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In no event shall either party be liable to the other for any indirect, special, incidental or consequential damages, including loss of profits, even if advised of the possibility of such damages. The aggregate liability of each party for claims arising out of this Agreement shall not exceed the fees paid in the twelve (12) months preceding the claim.",
+      "normalized_clause": "No indirect or consequential damages; aggregate liability capped at fees paid in prior 12 months.",
+      "found": true
+    },
+    "source_path": "dataset\\SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement",
+    "summary": "This Co-Branding Agreement, dated May 3, 1999, between Theglobe.com Inc. and Boxlot, outlines the terms for a partnership to jointly market and provide services. Key obligations include Boxlot granting equity to Theglobe, making payments as detailed in Exhibit A, and complying with all applicable laws. Theglobe, in turn, will provide services to Boxlot. Notable risks and penalties include termination for material breach, potential liability limitations, and a cap on liability for Boxlot at the amount it pays to Theglobe under the agreement. Both parties are independent contractors and have no confidential relationship.",
+    "termination_clause": {
+      "raw_clause": "By providing written notice, a party may immediately terminate this Agreement: (a) if the other party materially breaches this Agreement and fails to cure that breach within 15 days after receiving written notice of the breach, or (b) as provided in Sections 2.6",
+      "normalized_clause": "Termination: Either party can terminate this Agreement by providing written notice if the other party materially breaches the agreement and fails to cure within 15 days, or as specified in Section 2.6.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "The parties are independent contractors, and no agency, partnership, franchise, joint venture or employment relationship is intended or created by this Agreement. Neither party shall make any warranties.",
+      "normalized_clause": "The parties are independent contractors and have no confidential relationship.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "NEither party shall be liable for lost profits or special, incidental or consequential damages (however arising, including negligence) arising out of or in connection with this Agreement, even if the parties are aware of the possibility of such damages. Except in the event of a claim under section 10 or failure to pay under section 6, in no event shall either party be liable to the other party in an amount greater than the amount boxlot actually pays to theGlobe hereunder.",
+      "normalized_clause": "Neither party will be liable for indirect, special, incidental, or consequential damages, regardless of the cause (including negligence). This exclusion applies to all claims arising from or in connection with the agreement, except for claims under section 10 or failure to pay under section 6. In no case will either party be liable to the other for an amount greater than the amount Boxlot pays to theGlobe under this agreement.",
+      "found": true
+    },
+    "source_path": "dataset\\TheglobeComInc_19990503_S-1A_EX-10.20_5416126_EX-10.20_Co-Branding Agreement.pdf"
+  },
+  {
+    "contract_id": "TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement",
+    "summary": "This Affiliate Agreement, dated March 10, 2006, between TubeMediaCorp and an unnamed affiliate, outlines the terms for the distribution and monetization of online video content. The key obligations of TubeMediaCorp include providing the affiliate with video content, handling advertising sales, and making payments to the affiliate. The affiliate's key obligations include displaying the video content on their website, complying with advertising policies, and maintaining accurate records for accounting purposes. Notable risks and penalties include the affiliate's liability for taxes, potential legal issues arising from breaches of confidentiality, and limitations on liability for incidental, consequential, punitive, or special damages. The agreement may not be modified except in writing, and any breaches of the agreement will not waive the right to enforce subsequent breaches. The agreement is governed by the laws of the State of New York.",
+    "termination_clause": {
+      "raw_clause": "Network retains the right at all times during the Term to discontinue its distribution of the Service in its entirety and to terminate this Agreement and all other affiliates’ agreements on at least ninety (90) days’ prior notice without any liability therefor to Affiliate, other than amounts payable hereunder which accrued prior to such termination, including amounts payable pursuant to Section 6(b) and Exhibit D.",
+      "normalized_clause": "Network has the right to terminate the Agreement and all other affiliates' agreements with at least 90 days' notice, without liability, except for amounts payable that accrued prior to termination.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Any such audit shall be subject to the provisions of this Section 7(d) and the confidentiality provisions of Section 12, and the Auditor shall execute, in advance, a confidentiality agreement that obligates it to maintain the confidentiality of the terms of this Agreement and the information acquired during the course of the audit. Any officer, employee, consultant or agent of Affiliate that has access to an audit report (who shall be limited to those who are members of Affiliate’s corporate audit staff and have a specific need to know the contents thereof) shall also execute a confidentiality agreement consistent with the prior sentence.",
+      "normalized_clause": "The Auditor and officers, employees, consultants or agents of Affiliate with access to the audit report must maintain the confidentiality of the Agreement terms and information acquired during the audit. They must sign a confidentiality agreement.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "(j) LIMITATION OF LIABILITY. NOTWITHSTANDING ANY OTHER PROVISION IN THIS AGREEMENT TO THE CONTRARY, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES (INCLUDING LOSS OF PROFITS OF REVENUES, OR DAMAGES TO OR LOSS OF PERSONAL PROPERTY) IN ANY CAUSE OF ACTION ARISING OUT OF, RELATED TO, OR IN CONNECTION WITH A DEFAULT UNDER OR A BREACH OF THIS AGREEMENT.",
+      "normalized_clause": "Limitation of Liability: Neither party shall be liable for incidental, consequential, punitive or special damages, including loss of profits or damages to or loss of personal property, in any cause of action arising out of, related to, or in connection with a default under or a breach of this Agreement.",
+      "found": true
+    },
+    "source_path": "dataset\\TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.pdf"
+  },
+  {
+    "contract_id": "UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2",
+    "summary": "This Affiliate Agreement, between UsioInc and an affiliate, outlines their mutual obligations in marketing and selling services of Network 1 to commercial businesses. The affiliate is responsible for procuring Merchant Agreements, which Network 1 will review and approve. The affiliate guarantees payment for Equipment and Software purchased by merchants from Network 1. Upon termination, the affiliate's fees continue if not due to an uncured default or termination for cause. Notably, contractors found by the affiliate remain contractors of Network 1 post-termination. The agreement also includes a right of first refusal for any offers to purchase the affiliate's revenue during the term of the agreement. In case of termination, the affiliate is responsible for all expenses and fees incurred, including taxes and business overhead. The agreement is subject to termination upon approval of an ISO sponsorship agreement between the affiliate, Network 1, and Harris Bank.",
+    "termination_clause": {
+      "raw_clause": "Upon termination of this Agreement, except in the event of termination due to an uncured default by Affiliate pursuant to Section 5.02 [TERMINATION]A, Network 1 shall continue to pay to the Affiliate the Affiliate's Fee described in Section 3.01 [AMOUNT]B for so long as Network 1 continues to process transactions of the Merchants in accordance with Schedule B attached hereto and Affiliate continues to maintain the merchant accounts, provided, however, that no such Affiliate's Fees shall be earned or paid for any calendar month in which the Affiliate's Fee does not exceed $500. Upon termination due to an uncured default by Affiliate, or termination for cause pursuant to Section 5.02 [TERMINATION]D all Affiliates fees shall cease to be paid.",
+      "normalized_clause": "Termination: Upon termination of the Agreement, Affiliate's fees will continue if not due to an uncured default or termination for cause. In the case of uncured default or termination for cause, all Affiliate's fees will cease.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "N/A",
+      "normalized_clause": "No confidentiality clause found in the provided excerpt.",
+      "found": false
+    },
+    "liability_clause": {
+      "raw_clause": "In the event that this contract between Network 1 and Affiliate is terminated for any reason, the Contractors located by Affiliate shall remain Contractors of Network 1.",
+      "normalized_clause": "If the contract is terminated, the contractors found by Affiliate will continue to be contractors of Network 1.",
+      "found": true
+    },
+    "source_path": "dataset\\UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2.pdf"
+  },
+  {
+    "contract_id": "VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement",
+    "summary": "This Mobile Application Development Agreement, between VGRAB Communications Inc. and the Developer, outlines the terms for the development of the Duesey Coffee Chinese Mobile Apps and backend software. The Developer is engaged as an independent contractor to design the Project, per VAL's requirements specifications. The Developer is obligated to complete the Project within the agreed scope of work, as detailed in Clause 6. VAL is responsible for compensating the Developer on a pro-rata basis if the agreement is terminated by VAL before completion. The Developer can also terminate the agreement with a two-week written notice, but only if the project is not completed. Upon termination by the Developer, the Developer must transfer the entire project-related Intellectual Property (IPR) and work done till the date to VAL. Both parties are required to maintain confidentiality regarding technical, economic, financial, and market information obtained or that may be obtained in connection with the",
+    "termination_clause": {
+      "raw_clause": "This Agreement may be terminated by either party by giving two (2) weeks’ notice in writing and it is applicable only when the project is not completed. If the customer terminates the agreement, then VAL shall compensate the Developer up to the date of termination with a fee calculated on Pro-rata basis. Developer may also terminate this Agreement by giving two (2) weeks’ notice in writing to VAL. It is applicable only when the project is not completed.",
+      "normalized_clause": "This Agreement can be terminated by either party with a two-week written notice, but only if the project is not completed. If the customer terminates, VAL will compensate the Developer up to the date of termination on a pro-rata basis. The Developer can also terminate with a two-week written notice to VAL, again only if the project is not completed.",
+      "found": true
+    },
+    "confidentiality_clause": {
+      "raw_clause": "Each party hereto hereby undertakes with the other party hereto, and to the intent that such undertaking shall have full force and effect notwithstanding that such party shall cease to participate in the Agreement, that it will not, without the prior written consent of the other party hereto, divulge to any person, firm or corporation, any information on technical, economic, financial and market conditions, business plans, strategies, and other proprietary information, whether or not such information is marked as confidential, that it has obtained or may obtain in connection with the Agreement.",
+      "normalized_clause": "Each party agrees to keep confidential all technical, economic, financial, and market conditions, business plans, strategies, and other proprietary information obtained or that may be obtained in connection with the Agreement. Disclosure requires prior written consent.",
+      "found": true
+    },
+    "liability_clause": {
+      "raw_clause": "In case Developer terminates the agreement, it shall handover the entire project related IPR, work done till date to VAL.",
+      "normalized_clause": "Upon termination by the Developer, the Developer must transfer the entire project-related Intellectual Property (IPR) and work done till the date to VAL.",
+      "found": true
+    },
+    "source_path": "dataset\\VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.pdf"
+  }
+]
