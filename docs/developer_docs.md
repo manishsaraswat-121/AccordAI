@@ -21,13 +21,13 @@ This project implements a contract analysis pipeline that uses semantic search a
 
 ### File Descriptions
 
-- **config.py**  
+- **config.py** 
   Contains all configuration constants like model names, directories, API keys, chunk sizes, few-shot examples, user inputs (input folder, output files) and clause types.
 
 - **pdf_utils.py**  
   Utility functions for extracting and normalizing text from PDFs.
 
-- **embedding_utils.py**  
+- **embedding_utils.py** 
   Functions related to embedding text using sentence-transformers and building/searching FAISS indices.
 
 - **llm_utils.py**  
@@ -59,14 +59,12 @@ This project implements a contract analysis pipeline that uses semantic search a
 2. **Set Environment Variables**  
    Set your OpenRouter API key as environment variable `OPENROUTER_API_KEY`.
 
-3. **Run the Pipeline**  
+3. **Run the Pipeline** 
    Execute the `main.py` script, specifying input/output paths in the script `config.py` if applicable:
 
    ```bash
    python main.py
 ````
-
----
 
 ## Key Components
 
