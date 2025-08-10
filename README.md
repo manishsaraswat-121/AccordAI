@@ -20,13 +20,15 @@ This pipeline allows you to:
 
 ## Project Structure
 
-contract_analysis_pipeline/
-├── config.py               # Configuration and constants
-├── pdf_utils.py            # PDF text extraction and normalization utilities
-├── embedding_utils.py      # Embeddings model and FAISS index building functions
-├── llm_utils.py            # LLM prompt construction and API calls for clause extraction & summarization
-├── pipeline.py             # Main processing pipeline to handle contracts end-to-end
-└── main.py                 # CLI entrypoint to run the pipeline with user-specified parameters
+- contract_analysis_pipeline/
+  - config.py               : Configuration and constants
+  - pdf_utils.py            : PDF text extraction and normalization utilities
+  - embedding_utils.py      : Embeddings model and FAISS index building functions
+  - llm_utils.py            : LLM prompt construction and API calls for clause extraction & summarization
+  - pipeline.py             : Main processing pipeline to handle contracts end-to-end
+  - main.py                 : CLI entrypoint to run the pipeline with user-specified parameters
+  - docs/developer_docs.md  : Project Documentation
+  - /dataset                : dataset directory
 
 
 ## 🚀 Installation
