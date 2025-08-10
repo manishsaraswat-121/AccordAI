@@ -1,5 +1,3 @@
-Certainly! Here’s your nicely formatted developer documentation as a single snippet you can copy-paste in one go:
-
 ```markdown
 # Contract Analysis Pipeline - Developer Documentation
 
@@ -11,7 +9,7 @@ This project implements a contract analysis pipeline that uses semantic search a
 
 ## Project Structure
 - contract_analysis_pipeline/
-  - config.py               : Configuration and constants
+  - config.py               : Input & Output paths Configuration and constants
   - pdf_utils.py            : PDF text extraction and normalization utilities
   - embedding_utils.py      : Embeddings model and FAISS index building functions
   - llm_utils.py            : LLM prompt construction and API calls for clause extraction & summarization
@@ -56,7 +54,7 @@ This project implements a contract analysis pipeline that uses semantic search a
 ## How To Use
 
 1. **Prepare Input Data**  
-   Place up to 50 PDF contract files in a folder (default is `./data/contracts`).
+   Place up to 50 PDF contract files in a folder (default is `./dataset`).
 
 2. **Set Environment Variables**  
    Set your OpenRouter API key as environment variable `OPENROUTER_API_KEY`.
