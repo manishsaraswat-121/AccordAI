@@ -10,18 +10,16 @@ This project implements a contract analysis pipeline that uses semantic search a
 ---
 
 ## Project Structure
+- contract_analysis_pipeline/
+  - config.py               : Configuration and constants
+  - pdf_utils.py            : PDF text extraction and normalization utilities
+  - embedding_utils.py      : Embeddings model and FAISS index building functions
+  - llm_utils.py            : LLM prompt construction and API calls for clause extraction & summarization
+  - pipeline.py             : Main processing pipeline to handle contracts end-to-end
+  - main.py                 : CLI entrypoint to run the pipeline with user-specified parameters
+  - docs/developer_docs.md  : Project Documentation
+  - dataset                  : dataset directory
 
-```
-
-contract\_analysis\_pipeline/
-├── config.py
-├── pdf\_utils.py
-├── embedding\_utils.py
-├── llm\_utils.py
-├── pipeline.py
-├── main.py
-
-````
 
 ### File Descriptions
 
@@ -161,7 +159,3 @@ pip install openai pdfminer.six PyMuPDF sentence-transformers faiss-cpu pandas t
 
 For issues or contributions, please open a GitHub issue or pull request in the project repository.
 
-```
-
-Let me know if you want me to prepare it as a downloadable `.md` file too!
-```
